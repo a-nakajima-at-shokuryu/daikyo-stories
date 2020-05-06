@@ -1,0 +1,4431 @@
+{
+  "data": {
+    "urisaki2": [
+      {
+        "AIT_AITCD": "4001",
+        "AIT_MEISJ": "株式会社  足立商店",
+        "AIT_SEISJ": "株式会社  足立商店"
+      },
+      {
+        "AIT_AITCD": "4002",
+        "AIT_MEISJ": "株式会社  麻  生",
+        "AIT_SEISJ": "株式会社  麻  生"
+      },
+      {
+        "AIT_AITCD": "4003",
+        "AIT_MEISJ": "青山満月",
+        "AIT_SEISJ": "青山満月"
+      },
+      {
+        "AIT_AITCD": "4004",
+        "AIT_MEISJ": "魚とし",
+        "AIT_SEISJ": "魚とし"
+      },
+      {
+        "AIT_AITCD": "4005",
+        "AIT_MEISJ": "赤坂飯店",
+        "AIT_SEISJ": "東昌企業株式会社"
+      },
+      {
+        "AIT_AITCD": "4006",
+        "AIT_MEISJ": "東邦物産株式会社",
+        "AIT_SEISJ": "東邦物産株式会社"
+      },
+      {
+        "AIT_AITCD": "4007",
+        "AIT_MEISJ": "中島水産  株式会社  業務課",
+        "AIT_SEISJ": "中島水産  株式会社  業務課"
+      },
+      {
+        "AIT_AITCD": "4008",
+        "AIT_MEISJ": "中島水産  株式会社  営業１課",
+        "AIT_SEISJ": "中島水産  株式会社  営業１課"
+      },
+      {
+        "AIT_AITCD": "4009",
+        "AIT_MEISJ": "中島水産  株式会社  営業２課",
+        "AIT_SEISJ": "中島水産  株式会社  営業２課"
+      },
+      {
+        "AIT_AITCD": "4010",
+        "AIT_MEISJ": "中島水産  株式会社  営業３課",
+        "AIT_SEISJ": "中島水産  株式会社  営業３課"
+      },
+      {
+        "AIT_AITCD": "4011",
+        "AIT_MEISJ": "株式会社  総食",
+        "AIT_SEISJ": "株式会社  総食"
+      },
+      {
+        "AIT_AITCD": "4012",
+        "AIT_MEISJ": "株式会社  渡辺商事",
+        "AIT_SEISJ": "株式会社  渡辺商事"
+      },
+      {
+        "AIT_AITCD": "4013",
+        "AIT_MEISJ": "香村",
+        "AIT_SEISJ": "香村"
+      },
+      {
+        "AIT_AITCD": "4014",
+        "AIT_MEISJ": "２８部  有村",
+        "AIT_SEISJ": "２８部  有村"
+      },
+      {
+        "AIT_AITCD": "4015",
+        "AIT_MEISJ": "株式会社  小林水産",
+        "AIT_SEISJ": "株式会社  小林水産"
+      },
+      {
+        "AIT_AITCD": "4016",
+        "AIT_MEISJ": "旭食品　株式会社",
+        "AIT_SEISJ": "旭食品　株式会社"
+      },
+      {
+        "AIT_AITCD": "4017",
+        "AIT_MEISJ": "＊＊新  井＊＊",
+        "AIT_SEISJ": "新  井    代表  新井  雅"
+      },
+      {
+        "AIT_AITCD": "4018",
+        "AIT_MEISJ": "丸高　株式会社",
+        "AIT_SEISJ": "丸高  株式会社"
+      },
+      {
+        "AIT_AITCD": "4019",
+        "AIT_MEISJ": "＊＊＊ポルコ　ロッソ＊＊＊",
+        "AIT_SEISJ": "＊＊＊㈱インターフード・テクノロジーズ＊"
+      },
+      {
+        "AIT_AITCD": "4020",
+        "AIT_MEISJ": "つな八　上大岡売店",
+        "AIT_SEISJ": "株式会社  つな八"
+      },
+      {
+        "AIT_AITCD": "4021",
+        "AIT_MEISJ": "つな八　大船店",
+        "AIT_SEISJ": "株式会社  つな八"
+      },
+      {
+        "AIT_AITCD": "4022",
+        "AIT_MEISJ": "株式会社  タイゲン",
+        "AIT_SEISJ": "株式会社  タイゲン"
+      },
+      {
+        "AIT_AITCD": "4023",
+        "AIT_MEISJ": "㈱上新トレーディング  新潟",
+        "AIT_SEISJ": "株式会社  上新トレーディング"
+      },
+      {
+        "AIT_AITCD": "4024",
+        "AIT_MEISJ": "㈱上新トレーディング　上越",
+        "AIT_SEISJ": "株式会社  上新トレーディング"
+      },
+      {
+        "AIT_AITCD": "4025",
+        "AIT_MEISJ": "いづもや（本店）",
+        "AIT_SEISJ": "株式会社  いづもや"
+      },
+      {
+        "AIT_AITCD": "4026",
+        "AIT_MEISJ": "  磯  村",
+        "AIT_SEISJ": "  磯  村"
+      },
+      {
+        "AIT_AITCD": "4027",
+        "AIT_MEISJ": "静岡第一水産㈱",
+        "AIT_SEISJ": "静岡第一水産株式会社"
+      },
+      {
+        "AIT_AITCD": "4028",
+        "AIT_MEISJ": "有限会社　大山水産",
+        "AIT_SEISJ": "有限会社　大山水産"
+      },
+      {
+        "AIT_AITCD": "4029",
+        "AIT_MEISJ": "＊＊＊川崎丸魚  ㈱  南部市社＊＊＊",
+        "AIT_SEISJ": "＊＊＊川崎丸魚  株式会社＊＊＊"
+      },
+      {
+        "AIT_AITCD": "4030",
+        "AIT_MEISJ": "カネ共　三友冷蔵　株式会社",
+        "AIT_SEISJ": "カネ共　三友冷蔵　株式会社"
+      },
+      {
+        "AIT_AITCD": "4031",
+        "AIT_MEISJ": "＊＊＊外山＊＊＊",
+        "AIT_SEISJ": "＊＊＊外山　恵子＊＊＊"
+      },
+      {
+        "AIT_AITCD": "4032",
+        "AIT_MEISJ": "大月  伊藤商店",
+        "AIT_SEISJ": "大月  伊藤商店"
+      },
+      {
+        "AIT_AITCD": "4033",
+        "AIT_MEISJ": "グリーンマート　東四つ木店",
+        "AIT_SEISJ": "太伸食品　株式会社"
+      },
+      {
+        "AIT_AITCD": "4034",
+        "AIT_MEISJ": "グリーンマート　新小岩東店",
+        "AIT_SEISJ": "太伸食品　株式会社"
+      },
+      {
+        "AIT_AITCD": "4035",
+        "AIT_MEISJ": "グリーンマート　新小岩西店",
+        "AIT_SEISJ": "太伸食品　株式会社"
+      },
+      {
+        "AIT_AITCD": "4036",
+        "AIT_MEISJ": "すし処　春",
+        "AIT_SEISJ": "すし処　春"
+      },
+      {
+        "AIT_AITCD": "4037",
+        "AIT_MEISJ": "＊＊＊魚日出  株式会社＊＊＊",
+        "AIT_SEISJ": "＊＊＊魚日出  株式会社＊＊＊"
+      },
+      {
+        "AIT_AITCD": "4038",
+        "AIT_MEISJ": "玄海水産",
+        "AIT_SEISJ": "玄海水産"
+      },
+      {
+        "AIT_AITCD": "4039",
+        "AIT_MEISJ": "有限会社　魚梅",
+        "AIT_SEISJ": "有限会社　魚梅"
+      },
+      {
+        "AIT_AITCD": "4040",
+        "AIT_MEISJ": "魚  吾",
+        "AIT_SEISJ": "魚  吾  （小川吾郎）"
+      },
+      {
+        "AIT_AITCD": "4041",
+        "AIT_MEISJ": "天麩羅　竹",
+        "AIT_SEISJ": "天麩羅　竹"
+      },
+      {
+        "AIT_AITCD": "4042",
+        "AIT_MEISJ": "株式会社  丸イ浦井",
+        "AIT_SEISJ": "株式会社  丸イ浦井"
+      },
+      {
+        "AIT_AITCD": "4043",
+        "AIT_MEISJ": "（株）ＩＭＰ　第２事業部",
+        "AIT_SEISJ": "株式会社ＩＭＰ"
+      },
+      {
+        "AIT_AITCD": "4044",
+        "AIT_MEISJ": "＊＊＊浦田鮮魚店＊＊＊",
+        "AIT_SEISJ": "＊＊＊浦田鮮魚店＊＊＊"
+      },
+      {
+        "AIT_AITCD": "4045",
+        "AIT_MEISJ": "綱八　新宿小田急デリカ店",
+        "AIT_SEISJ": "株式会社綱八"
+      },
+      {
+        "AIT_AITCD": "4046",
+        "AIT_MEISJ": "綱八　吉祥寺デリカ店",
+        "AIT_SEISJ": "株式会社綱八"
+      },
+      {
+        "AIT_AITCD": "4047",
+        "AIT_MEISJ": "綱八　横浜シアルデリカ店",
+        "AIT_SEISJ": "株式会社綱八"
+      },
+      {
+        "AIT_AITCD": "4048",
+        "AIT_MEISJ": "綱八　高島屋デリカ店",
+        "AIT_SEISJ": "株式会社綱八"
+      },
+      {
+        "AIT_AITCD": "4049",
+        "AIT_MEISJ": "綱八　新静岡店",
+        "AIT_SEISJ": "株式会社綱八"
+      },
+      {
+        "AIT_AITCD": "4050",
+        "AIT_MEISJ": "綱八　凛マイシティ店",
+        "AIT_SEISJ": "株式会社綱八"
+      },
+      {
+        "AIT_AITCD": "4051",
+        "AIT_MEISJ": "魚  勝",
+        "AIT_SEISJ": "魚  勝"
+      },
+      {
+        "AIT_AITCD": "4052",
+        "AIT_MEISJ": "株式会社　カネヒロ",
+        "AIT_SEISJ": "株式会社　カネヒロ"
+      },
+      {
+        "AIT_AITCD": "4053",
+        "AIT_MEISJ": "つな八　西新井店",
+        "AIT_SEISJ": "株式会社　つな八"
+      },
+      {
+        "AIT_AITCD": "4054",
+        "AIT_MEISJ": "㈱ショクリュー小倉営業所",
+        "AIT_SEISJ": "（株）ショクリュー小倉営業所"
+      },
+      {
+        "AIT_AITCD": "4055",
+        "AIT_MEISJ": "菜屋　品川店",
+        "AIT_SEISJ": "有限会社　フード・コート"
+      },
+      {
+        "AIT_AITCD": "4056",
+        "AIT_MEISJ": "綱八  新宿高島屋店",
+        "AIT_SEISJ": "株式会社綱八"
+      },
+      {
+        "AIT_AITCD": "4057",
+        "AIT_MEISJ": "綱八  アクアシティ店",
+        "AIT_SEISJ": "株式会社綱八"
+      },
+      {
+        "AIT_AITCD": "4058",
+        "AIT_MEISJ": "綱八  新宿京王店",
+        "AIT_SEISJ": "株式会社綱八"
+      },
+      {
+        "AIT_AITCD": "4059",
+        "AIT_MEISJ": "綱八粋  カレッタ汐留店",
+        "AIT_SEISJ": "株式会社綱八"
+      },
+      {
+        "AIT_AITCD": "4060",
+        "AIT_MEISJ": "＊＊＊（株）海老の浦井＊＊＊",
+        "AIT_SEISJ": "＊＊＊株式会社  海老の浦井＊＊＊"
+      },
+      {
+        "AIT_AITCD": "4061",
+        "AIT_MEISJ": "綱八  甲府デリカ店",
+        "AIT_SEISJ": "株式会社綱八"
+      },
+      {
+        "AIT_AITCD": "4062",
+        "AIT_MEISJ": "綱八  海老名デリカ店",
+        "AIT_SEISJ": "株式会社綱八"
+      },
+      {
+        "AIT_AITCD": "4063",
+        "AIT_MEISJ": "＊＊＊わくら亭　丸井錦糸町店＊＊＊",
+        "AIT_SEISJ": "＊＊株式会社　加賀屋レストランシステムズ"
+      },
+      {
+        "AIT_AITCD": "4064",
+        "AIT_MEISJ": "大森  カネシチ商店",
+        "AIT_SEISJ": "大森  カネシチ商店"
+      },
+      {
+        "AIT_AITCD": "4065",
+        "AIT_MEISJ": "天婦羅  大江戸",
+        "AIT_SEISJ": "天婦羅  大江戸"
+      },
+      {
+        "AIT_AITCD": "4066",
+        "AIT_MEISJ": "まるき商店",
+        "AIT_SEISJ": "株式会社まるき商店"
+      },
+      {
+        "AIT_AITCD": "4067",
+        "AIT_MEISJ": "＊＊＊大鳥居（５６部）＊＊＊",
+        "AIT_SEISJ": "＊＊＊有限会社  魚隆＊＊＊"
+      },
+      {
+        "AIT_AITCD": "4068",
+        "AIT_MEISJ": "＊＊＊葵丸進  立花＊＊＊",
+        "AIT_SEISJ": "＊＊＊株式会社  葵丸進  立花＊＊＊"
+      },
+      {
+        "AIT_AITCD": "4069",
+        "AIT_MEISJ": "串こたに",
+        "AIT_SEISJ": "串こたに"
+      },
+      {
+        "AIT_AITCD": "4070",
+        "AIT_MEISJ": "おたんこなす",
+        "AIT_SEISJ": "おたんこなす"
+      },
+      {
+        "AIT_AITCD": "4071",
+        "AIT_MEISJ": "森寿司",
+        "AIT_SEISJ": "森寿司"
+      },
+      {
+        "AIT_AITCD": "4072",
+        "AIT_MEISJ": "＊＊＊東信水産  ㈱＊＊＊",
+        "AIT_SEISJ": "＊＊＊東信水産  ㈱＊＊＊"
+      },
+      {
+        "AIT_AITCD": "4073",
+        "AIT_MEISJ": "日本料理　さが和",
+        "AIT_SEISJ": "日本料理　さが和"
+      },
+      {
+        "AIT_AITCD": "4074",
+        "AIT_MEISJ": "株式会社　喜代村",
+        "AIT_SEISJ": "株式会社　喜代村"
+      },
+      {
+        "AIT_AITCD": "4075",
+        "AIT_MEISJ": "株式会社　魚忠",
+        "AIT_SEISJ": "株式会社　魚忠"
+      },
+      {
+        "AIT_AITCD": "4076",
+        "AIT_MEISJ": "＊＊＊柏  可津＊＊＊",
+        "AIT_SEISJ": "＊＊＊柏  可津＊＊＊"
+      },
+      {
+        "AIT_AITCD": "4077",
+        "AIT_MEISJ": "スーパーマーケット　田園",
+        "AIT_SEISJ": "ナショナル物産　株式会社"
+      },
+      {
+        "AIT_AITCD": "4078",
+        "AIT_MEISJ": "＊＊久が原ダイシン百貨店＊＊",
+        "AIT_SEISJ": "株式会社　ダイシン百貨店"
+      },
+      {
+        "AIT_AITCD": "4079",
+        "AIT_MEISJ": "＊＊ナガサワ＊＊",
+        "AIT_SEISJ": "株式会社　ダイシン百貨店"
+      },
+      {
+        "AIT_AITCD": "4080",
+        "AIT_MEISJ": "株式会社  金  駒",
+        "AIT_SEISJ": "株式会社  金  駒"
+      },
+      {
+        "AIT_AITCD": "4081",
+        "AIT_MEISJ": "関東水産  （中台店）",
+        "AIT_SEISJ": "株式会社  モ－リア"
+      },
+      {
+        "AIT_AITCD": "4082",
+        "AIT_MEISJ": "柏魚市場  株式会社",
+        "AIT_SEISJ": "柏魚市場  株式会社"
+      },
+      {
+        "AIT_AITCD": "4083",
+        "AIT_MEISJ": "株式会社　ヒノキフーズ",
+        "AIT_SEISJ": "株式会社　ヒノキフーズ"
+      },
+      {
+        "AIT_AITCD": "4084",
+        "AIT_MEISJ": "神田水産",
+        "AIT_SEISJ": "神田水産"
+      },
+      {
+        "AIT_AITCD": "4085",
+        "AIT_MEISJ": "かね中  佐藤",
+        "AIT_SEISJ": "かね中  佐藤"
+      },
+      {
+        "AIT_AITCD": "4086",
+        "AIT_MEISJ": "台所奉行　神田店",
+        "AIT_SEISJ": "有限会社　ブライト"
+      },
+      {
+        "AIT_AITCD": "4087",
+        "AIT_MEISJ": "有限会社　海星水産",
+        "AIT_SEISJ": "有限会社　海星水産"
+      },
+      {
+        "AIT_AITCD": "4088",
+        "AIT_MEISJ": "＊＊＊（株）上浩商事＊＊＊",
+        "AIT_SEISJ": "＊＊＊株式会社  上浩商事＊＊＊"
+      },
+      {
+        "AIT_AITCD": "4089",
+        "AIT_MEISJ": "㈱ショクリュー加工食品２課",
+        "AIT_SEISJ": "株式会社ショクリュー加工食品２課"
+      },
+      {
+        "AIT_AITCD": "4090",
+        "AIT_MEISJ": "＊＊＊ユリアンダイニング･シジヤン＊＊＊",
+        "AIT_SEISJ": "＊＊＊株式会社  グルメ杵屋＊＊＊"
+      },
+      {
+        "AIT_AITCD": "4091",
+        "AIT_MEISJ": "有限会社　大輝",
+        "AIT_SEISJ": "有限会社　大輝"
+      },
+      {
+        "AIT_AITCD": "4092",
+        "AIT_MEISJ": "＊＊＊天国  横浜ランドマーク＊＊＊",
+        "AIT_SEISJ": "＊＊＊合資会社  天国＊＊＊"
+      },
+      {
+        "AIT_AITCD": "4093",
+        "AIT_MEISJ": "つな八　元町",
+        "AIT_SEISJ": "株式会社  つな八"
+      },
+      {
+        "AIT_AITCD": "4094",
+        "AIT_MEISJ": "＊＊＊るせっと　勝どき店＊＊＊",
+        "AIT_SEISJ": "＊＊＊株式会社  デイ・テイ・ネクスト＊＊"
+      },
+      {
+        "AIT_AITCD": "4095",
+        "AIT_MEISJ": "佃熊",
+        "AIT_SEISJ": "株式会社　佃熊"
+      },
+      {
+        "AIT_AITCD": "4096",
+        "AIT_MEISJ": "魚よし（東１かわき）",
+        "AIT_SEISJ": "魚よし"
+      },
+      {
+        "AIT_AITCD": "4097",
+        "AIT_MEISJ": "（株）海老寅",
+        "AIT_SEISJ": "株式会社海老寅"
+      },
+      {
+        "AIT_AITCD": "4098",
+        "AIT_MEISJ": "株式会社　ファインフーズ",
+        "AIT_SEISJ": "株式会社　ファインフーズ"
+      },
+      {
+        "AIT_AITCD": "4099",
+        "AIT_MEISJ": "つるとんたん六本木店",
+        "AIT_SEISJ": "株式会社ケー・エキスプレス"
+      },
+      {
+        "AIT_AITCD": "4100",
+        "AIT_MEISJ": "喜太鮨支店",
+        "AIT_SEISJ": "喜太鮨支店"
+      },
+      {
+        "AIT_AITCD": "4101",
+        "AIT_MEISJ": "＊＊＊Ｅマート＊＊＊",
+        "AIT_SEISJ": "＊＊＊株式会社  ファインフーズ＊＊＊"
+      },
+      {
+        "AIT_AITCD": "4102",
+        "AIT_MEISJ": "綱八  志木店",
+        "AIT_SEISJ": "株式会社綱八"
+      },
+      {
+        "AIT_AITCD": "4103",
+        "AIT_MEISJ": "＊＊＊ユリアンダイニング･シジヤン品川店",
+        "AIT_SEISJ": "＊＊＊株式会社  グルメ杵屋＊＊＊"
+      },
+      {
+        "AIT_AITCD": "4104",
+        "AIT_MEISJ": "宝成企画",
+        "AIT_SEISJ": "有限会社　宝成企画"
+      },
+      {
+        "AIT_AITCD": "4105",
+        "AIT_MEISJ": "栄泉",
+        "AIT_SEISJ": "有限会社　栄泉"
+      },
+      {
+        "AIT_AITCD": "4106",
+        "AIT_MEISJ": "株式会社　ビッグ築地",
+        "AIT_SEISJ": "株式会社　ビッグ築地"
+      },
+      {
+        "AIT_AITCD": "4107",
+        "AIT_MEISJ": "㈱マキネスティコーヒー　麻布十番店",
+        "AIT_SEISJ": "㈱マキネスティコーヒー"
+      },
+      {
+        "AIT_AITCD": "4108",
+        "AIT_MEISJ": "ハンスイ　多摩支店",
+        "AIT_SEISJ": "（株）ハンスイ"
+      },
+      {
+        "AIT_AITCD": "4109",
+        "AIT_MEISJ": "つな八　大森店",
+        "AIT_SEISJ": "株式会社  つな八"
+      },
+      {
+        "AIT_AITCD": "4110",
+        "AIT_MEISJ": "つるとんたんビストーキョウ店",
+        "AIT_SEISJ": "株式会社ケー・エキスプレス"
+      },
+      {
+        "AIT_AITCD": "4111",
+        "AIT_MEISJ": "菊市",
+        "AIT_SEISJ": "菊市"
+      },
+      {
+        "AIT_AITCD": "4112",
+        "AIT_MEISJ": "株式会社　赤垣屋",
+        "AIT_SEISJ": "株式会社　赤垣屋"
+      },
+      {
+        "AIT_AITCD": "4113",
+        "AIT_MEISJ": "ハンスイ",
+        "AIT_SEISJ": "（株）ハンスイ"
+      },
+      {
+        "AIT_AITCD": "4114",
+        "AIT_MEISJ": "＊＊＊㈱  協成＊＊＊",
+        "AIT_SEISJ": "＊＊＊株式会社  協成＊＊＊"
+      },
+      {
+        "AIT_AITCD": "4115",
+        "AIT_MEISJ": "ＤＴＣＳ",
+        "AIT_SEISJ": "株式会社ショクリュー"
+      },
+      {
+        "AIT_AITCD": "4116",
+        "AIT_MEISJ": "イマージユコーポレーシヨン",
+        "AIT_SEISJ": "有限会社　イマージユコーポレーシヨン"
+      },
+      {
+        "AIT_AITCD": "4117",
+        "AIT_MEISJ": "ダイシン百貨店　大森店",
+        "AIT_SEISJ": "株式会社ダイシン百貨店"
+      },
+      {
+        "AIT_AITCD": "4118",
+        "AIT_MEISJ": "＊＊＊松山＊＊＊",
+        "AIT_SEISJ": "＊＊＊有限会社  御膳所  松山＊＊＊"
+      },
+      {
+        "AIT_AITCD": "4119",
+        "AIT_MEISJ": "きらく亭　新宿店",
+        "AIT_SEISJ": "有限会社シーフレッシュ"
+      },
+      {
+        "AIT_AITCD": "4120",
+        "AIT_MEISJ": "＊＊＊けい  小岩＊＊＊",
+        "AIT_SEISJ": "＊＊＊けい  小岩＊＊＊"
+      },
+      {
+        "AIT_AITCD": "4121",
+        "AIT_MEISJ": "㈱ショクリュー黒門営業所",
+        "AIT_SEISJ": "株式会社ショクリュー黒門営業所"
+      },
+      {
+        "AIT_AITCD": "4122",
+        "AIT_MEISJ": "交洋　第三営業部海老一課",
+        "AIT_SEISJ": "株式会社  交洋"
+      },
+      {
+        "AIT_AITCD": "4123",
+        "AIT_MEISJ": "越谷畜産",
+        "AIT_SEISJ": "（株）越谷畜産"
+      },
+      {
+        "AIT_AITCD": "4124",
+        "AIT_MEISJ": "駒一寿司",
+        "AIT_SEISJ": "駒一寿司"
+      },
+      {
+        "AIT_AITCD": "4125",
+        "AIT_MEISJ": "㈱ショクリュー神戸営業所",
+        "AIT_SEISJ": "株式会社ショクリュー神戸営業所"
+      },
+      {
+        "AIT_AITCD": "4126",
+        "AIT_MEISJ": "㈱ショクリュー 営業部Ａ（20）",
+        "AIT_SEISJ": "株式会社ショクリュー"
+      },
+      {
+        "AIT_AITCD": "4127",
+        "AIT_MEISJ": "つるとんたん新宿店",
+        "AIT_SEISJ": "株式会社ケー・エキスプレス"
+      },
+      {
+        "AIT_AITCD": "4128",
+        "AIT_MEISJ": "有限会社　ハマスイ",
+        "AIT_SEISJ": "有限会社　ハマスイ"
+      },
+      {
+        "AIT_AITCD": "4129",
+        "AIT_MEISJ": "株式会社　樋栄ｐ",
+        "AIT_SEISJ": "株式会社樋栄"
+      },
+      {
+        "AIT_AITCD": "4130",
+        "AIT_MEISJ": "伊藤忠フレッシュ（株）",
+        "AIT_SEISJ": "伊藤忠フレッシュ  株式会社"
+      },
+      {
+        "AIT_AITCD": "4131",
+        "AIT_MEISJ": "＊＊＊株式会社  湊與＊＊＊",
+        "AIT_SEISJ": "＊＊＊株式会社  湊與＊＊＊"
+      },
+      {
+        "AIT_AITCD": "4132",
+        "AIT_MEISJ": "きらく亭　綱島店",
+        "AIT_SEISJ": "有限会社シーフレッシュ"
+      },
+      {
+        "AIT_AITCD": "4133",
+        "AIT_MEISJ": "近藤食品  株式会社",
+        "AIT_SEISJ": "近藤食品  株式会社"
+      },
+      {
+        "AIT_AITCD": "4134",
+        "AIT_MEISJ": "かつ吉  日本橋三越売店",
+        "AIT_SEISJ": "株式会社  かつ吉"
+      },
+      {
+        "AIT_AITCD": "4135",
+        "AIT_MEISJ": "＊＊＊三栄水産  株式会社＊＊＊",
+        "AIT_SEISJ": "＊＊＊三栄水産  株式会社＊＊＊"
+      },
+      {
+        "AIT_AITCD": "4136",
+        "AIT_MEISJ": "＊＊＊讃岐食品  株式会社＊＊＊",
+        "AIT_SEISJ": "＊＊＊讃岐食品  株式会社＊＊＊"
+      },
+      {
+        "AIT_AITCD": "4137",
+        "AIT_MEISJ": "ハンスイ  湘南営業所",
+        "AIT_SEISJ": "株式会社  ハンスイ"
+      },
+      {
+        "AIT_AITCD": "4138",
+        "AIT_MEISJ": "綱八  北千住デリカ店",
+        "AIT_SEISJ": "株式会社綱八"
+      },
+      {
+        "AIT_AITCD": "4139",
+        "AIT_MEISJ": "ヒロフーズ",
+        "AIT_SEISJ": "ヒロフーズ"
+      },
+      {
+        "AIT_AITCD": "4140",
+        "AIT_MEISJ": "吉川水産  株式会社",
+        "AIT_SEISJ": "吉川水産  株式会社"
+      },
+      {
+        "AIT_AITCD": "4141",
+        "AIT_MEISJ": "更  科",
+        "AIT_SEISJ": "更  科    川島岩男"
+      },
+      {
+        "AIT_AITCD": "4142",
+        "AIT_MEISJ": "株式会社    宮商",
+        "AIT_SEISJ": "株式会社  宮商"
+      },
+      {
+        "AIT_AITCD": "4143",
+        "AIT_MEISJ": "玉越",
+        "AIT_SEISJ": "株式会社玉越"
+      },
+      {
+        "AIT_AITCD": "4144",
+        "AIT_MEISJ": "えび万",
+        "AIT_SEISJ": "えび万"
+      },
+      {
+        "AIT_AITCD": "4145",
+        "AIT_MEISJ": "諏訪中央魚市場東京新社",
+        "AIT_SEISJ": "株式会社  諏訪中央魚市場東京新社"
+      },
+      {
+        "AIT_AITCD": "4146",
+        "AIT_MEISJ": "共同水産（株）",
+        "AIT_SEISJ": "共同水産株式会社"
+      },
+      {
+        "AIT_AITCD": "4147",
+        "AIT_MEISJ": "株式会社  吉池",
+        "AIT_SEISJ": "株式会社  吉池"
+      },
+      {
+        "AIT_AITCD": "4148",
+        "AIT_MEISJ": "（株）ＴＩＳＫ",
+        "AIT_SEISJ": "株式会社ＴＩＳＫ"
+      },
+      {
+        "AIT_AITCD": "4149",
+        "AIT_MEISJ": "富洋物産（株）",
+        "AIT_SEISJ": "富洋物産株式会社"
+      },
+      {
+        "AIT_AITCD": "4150",
+        "AIT_MEISJ": "つな八　渋谷西武店",
+        "AIT_SEISJ": "株式会社  つな八"
+      },
+      {
+        "AIT_AITCD": "4151",
+        "AIT_MEISJ": "魚きん　スーパー部門",
+        "AIT_SEISJ": "株式会社魚きん　スーパー部門"
+      },
+      {
+        "AIT_AITCD": "4152",
+        "AIT_MEISJ": "（株）ビッグ築地　滝沢",
+        "AIT_SEISJ": "株式会社ビッグ築地"
+      },
+      {
+        "AIT_AITCD": "4153",
+        "AIT_MEISJ": "株式会社  芝福",
+        "AIT_SEISJ": "株式会社  芝福"
+      },
+      {
+        "AIT_AITCD": "4154",
+        "AIT_MEISJ": "＊＊＊株式会社  清水友＊＊＊",
+        "AIT_SEISJ": "＊＊＊株式会社  清水友＊＊＊"
+      },
+      {
+        "AIT_AITCD": "4155",
+        "AIT_MEISJ": "大昌水産（株）",
+        "AIT_SEISJ": "大昌水産株式会社"
+      },
+      {
+        "AIT_AITCD": "4156",
+        "AIT_MEISJ": "カフェ　マキネスティ　猿楽町店",
+        "AIT_SEISJ": "㈱マキネスティコーヒー"
+      },
+      {
+        "AIT_AITCD": "4157",
+        "AIT_MEISJ": "カフェ　マキネスティ　広尾店",
+        "AIT_SEISJ": "㈱マキネスティコーヒー"
+      },
+      {
+        "AIT_AITCD": "4158",
+        "AIT_MEISJ": "（株）芝市商店　請求書係",
+        "AIT_SEISJ": "株式会社芝市商店"
+      },
+      {
+        "AIT_AITCD": "4159",
+        "AIT_MEISJ": "株式会社  海星ムサシ",
+        "AIT_SEISJ": "株式会社  海星ムサシ"
+      },
+      {
+        "AIT_AITCD": "4160",
+        "AIT_MEISJ": "住友",
+        "AIT_SEISJ": "有限会社  住友"
+      },
+      {
+        "AIT_AITCD": "4161",
+        "AIT_MEISJ": "有限会社　沢田商事",
+        "AIT_SEISJ": "有限会社沢田商事"
+      },
+      {
+        "AIT_AITCD": "4162",
+        "AIT_MEISJ": "浅草むぎとろ　築地活鮮吉富事業部",
+        "AIT_SEISJ": "株式会社浅草むぎとろ　築地活鮮吉富事業"
+      },
+      {
+        "AIT_AITCD": "4163",
+        "AIT_MEISJ": "三定　板場",
+        "AIT_SEISJ": "有限会社　雷門三定"
+      },
+      {
+        "AIT_AITCD": "4164",
+        "AIT_MEISJ": "株式会社　エス・マルシェ",
+        "AIT_SEISJ": "株式会社エスマルシェ"
+      },
+      {
+        "AIT_AITCD": "4165",
+        "AIT_MEISJ": "やわらか豚かつ　マ・メゾン",
+        "AIT_SEISJ": "株式会社　マ・メゾン"
+      },
+      {
+        "AIT_AITCD": "4166",
+        "AIT_MEISJ": "生鮮食品館HOTODA　中葛西店",
+        "AIT_SEISJ": "株式会社　保土田"
+      },
+      {
+        "AIT_AITCD": "4167",
+        "AIT_MEISJ": "＊＊＊春夏秋冬＊＊＊",
+        "AIT_SEISJ": "＊＊＊有限会社  春夏秋冬＊＊＊"
+      },
+      {
+        "AIT_AITCD": "4168",
+        "AIT_MEISJ": "鮨初",
+        "AIT_SEISJ": "有限会社  寿司初"
+      },
+      {
+        "AIT_AITCD": "4169",
+        "AIT_MEISJ": "株式会社　瀬水水産",
+        "AIT_SEISJ": "株式会社瀬水水産"
+      },
+      {
+        "AIT_AITCD": "4170",
+        "AIT_MEISJ": "京和産業㈱",
+        "AIT_SEISJ": "京和産業株式会社"
+      },
+      {
+        "AIT_AITCD": "4171",
+        "AIT_MEISJ": "綱八  聖蹟桜ヶ丘店",
+        "AIT_SEISJ": "株式会社綱八"
+      },
+      {
+        "AIT_AITCD": "4172",
+        "AIT_MEISJ": "フードセンターほとだ　東小松川店",
+        "AIT_SEISJ": "株式会社　保土田"
+      },
+      {
+        "AIT_AITCD": "4173",
+        "AIT_MEISJ": "サン・フードサービス　浜松町店",
+        "AIT_SEISJ": "有限会社サン・フードサービス"
+      },
+      {
+        "AIT_AITCD": "4174",
+        "AIT_MEISJ": "サン・フードサービス　志村店",
+        "AIT_SEISJ": "有限会社サン・フードサービス"
+      },
+      {
+        "AIT_AITCD": "4175",
+        "AIT_MEISJ": "すし大将　五反田ＴＯＣ",
+        "AIT_SEISJ": "株式会社  共英"
+      },
+      {
+        "AIT_AITCD": "4176",
+        "AIT_MEISJ": "有限会社　日栄水産",
+        "AIT_SEISJ": "有限会社　日栄水産"
+      },
+      {
+        "AIT_AITCD": "4177",
+        "AIT_MEISJ": "（株）三商",
+        "AIT_SEISJ": "株式会社  三商"
+      },
+      {
+        "AIT_AITCD": "4178",
+        "AIT_MEISJ": "株式会社　魚翔",
+        "AIT_SEISJ": "株式会社　魚翔"
+      },
+      {
+        "AIT_AITCD": "4179",
+        "AIT_MEISJ": "旭鮨総本店　株式会社",
+        "AIT_SEISJ": "旭鮨総本店　株式会社"
+      },
+      {
+        "AIT_AITCD": "4180",
+        "AIT_MEISJ": "魚がし　恵比寿",
+        "AIT_SEISJ": "エスウェイブ株式会社"
+      },
+      {
+        "AIT_AITCD": "4181",
+        "AIT_MEISJ": "綱八  府中店",
+        "AIT_SEISJ": "エンタープライズ・ヒサクラ　株式会社"
+      },
+      {
+        "AIT_AITCD": "4182",
+        "AIT_MEISJ": "綱八  商品部",
+        "AIT_SEISJ": "株式会社綱八"
+      },
+      {
+        "AIT_AITCD": "4183",
+        "AIT_MEISJ": "株式会社エルビー",
+        "AIT_SEISJ": "株式会社エルビー"
+      },
+      {
+        "AIT_AITCD": "4184",
+        "AIT_MEISJ": "杉山水産",
+        "AIT_SEISJ": "杉山水産"
+      },
+      {
+        "AIT_AITCD": "4185",
+        "AIT_MEISJ": "琴しょう楼",
+        "AIT_SEISJ": "株式会社ケー・エキスプレス"
+      },
+      {
+        "AIT_AITCD": "4186",
+        "AIT_MEISJ": "あっぱれ誠三朗",
+        "AIT_SEISJ": "株式会社ケー・エキスプレス"
+      },
+      {
+        "AIT_AITCD": "4187",
+        "AIT_MEISJ": "＊＊＊多加乃＊＊＊",
+        "AIT_SEISJ": "＊＊＊多加乃＊＊＊"
+      },
+      {
+        "AIT_AITCD": "4188",
+        "AIT_MEISJ": "㈱ショクリュー量販部水産課",
+        "AIT_SEISJ": "株式会社ショクリュー量販部水産課"
+      },
+      {
+        "AIT_AITCD": "4189",
+        "AIT_MEISJ": "築地魚がし風来坊",
+        "AIT_SEISJ": "築地魚がし風来坊"
+      },
+      {
+        "AIT_AITCD": "4190",
+        "AIT_MEISJ": "㈱ショクリュー  大阪支社",
+        "AIT_SEISJ": "株式会社ショクリュー  大阪支社"
+      },
+      {
+        "AIT_AITCD": "4191",
+        "AIT_MEISJ": "＊＊＊㈱ショクリュー  福岡支社＊＊＊",
+        "AIT_SEISJ": "＊＊＊株式会社ショクリュー  福岡支社＊＊"
+      },
+      {
+        "AIT_AITCD": "4192",
+        "AIT_MEISJ": "㈱ショクリュー凍魚事業部５課",
+        "AIT_SEISJ": "株式会社ショクリュー凍魚事業部５課"
+      },
+      {
+        "AIT_AITCD": "4193",
+        "AIT_MEISJ": "㈱ショクリュー海老事業部一課",
+        "AIT_SEISJ": "㈱ショクリュー"
+      },
+      {
+        "AIT_AITCD": "4194",
+        "AIT_MEISJ": "㈱ショクリュー凍魚事業部１課",
+        "AIT_SEISJ": "㈱ショクリュー凍魚事業部１課"
+      },
+      {
+        "AIT_AITCD": "4195",
+        "AIT_MEISJ": "㈱ショクリュー東日本支社札幌事業所",
+        "AIT_SEISJ": "㈱ショクリュー東日本支社札幌事業所"
+      },
+      {
+        "AIT_AITCD": "4196",
+        "AIT_MEISJ": "漁火",
+        "AIT_SEISJ": "(有)拓新商事"
+      },
+      {
+        "AIT_AITCD": "4197",
+        "AIT_MEISJ": "＊＊＊㈱ショクリュー  庶務課＊＊＊",
+        "AIT_SEISJ": "＊＊＊株式会社ショクリュー  庶務課＊＊＊"
+      },
+      {
+        "AIT_AITCD": "4198",
+        "AIT_MEISJ": "（株）隆徳貿易",
+        "AIT_SEISJ": "株式会社隆徳貿易"
+      },
+      {
+        "AIT_AITCD": "4199",
+        "AIT_MEISJ": "（株）なつよ",
+        "AIT_SEISJ": "株式会社なつよ"
+      },
+      {
+        "AIT_AITCD": "4200",
+        "AIT_MEISJ": "第一神宮",
+        "AIT_SEISJ": "第一神宮"
+      },
+      {
+        "AIT_AITCD": "4201",
+        "AIT_MEISJ": "有限会社  多助",
+        "AIT_SEISJ": "有限会社  多助"
+      },
+      {
+        "AIT_AITCD": "4202",
+        "AIT_MEISJ": "㈱アキラ・トータルプランニング",
+        "AIT_SEISJ": "株式会社アキラ・トータルプランニング"
+      },
+      {
+        "AIT_AITCD": "4203",
+        "AIT_MEISJ": "（株）舟藤",
+        "AIT_SEISJ": "株式会社　舟藤"
+      },
+      {
+        "AIT_AITCD": "4204",
+        "AIT_MEISJ": "（株）中彦",
+        "AIT_SEISJ": "株式会社中彦"
+      },
+      {
+        "AIT_AITCD": "4205",
+        "AIT_MEISJ": "（株）大勢",
+        "AIT_SEISJ": "株式会社大勢"
+      },
+      {
+        "AIT_AITCD": "4206",
+        "AIT_MEISJ": "＊＊＊八王子魚市場（株）＊＊＊",
+        "AIT_SEISJ": "＊＊＊八王子魚市場株式会社＊＊＊"
+      },
+      {
+        "AIT_AITCD": "4207",
+        "AIT_MEISJ": "（株）築地フレッシュ丸都",
+        "AIT_SEISJ": "株式会社築地フレッシュ丸都"
+      },
+      {
+        "AIT_AITCD": "4208",
+        "AIT_MEISJ": "綱八　　凛　　中野",
+        "AIT_SEISJ": "株式会社綱八"
+      },
+      {
+        "AIT_AITCD": "4209",
+        "AIT_MEISJ": "マルキン酒場",
+        "AIT_SEISJ": "株式会社エムフーズプランニング"
+      },
+      {
+        "AIT_AITCD": "4210",
+        "AIT_MEISJ": "埼北水産  ㈱",
+        "AIT_SEISJ": "埼北水産  株式会社"
+      },
+      {
+        "AIT_AITCD": "4211",
+        "AIT_MEISJ": "渋谷　つな八　多摩センター三越",
+        "AIT_SEISJ": "株式会社　つな八"
+      },
+      {
+        "AIT_AITCD": "4212",
+        "AIT_MEISJ": "赤坂飯店　上野松坂屋",
+        "AIT_SEISJ": "華昌有限会社"
+      },
+      {
+        "AIT_AITCD": "4213",
+        "AIT_MEISJ": "＊＊＊団寿司＊＊＊",
+        "AIT_SEISJ": "＊＊＊団寿司＊＊＊"
+      },
+      {
+        "AIT_AITCD": "4214",
+        "AIT_MEISJ": "赤坂飯店　晴海トリトン店",
+        "AIT_SEISJ": "東昌企業株式会社"
+      },
+      {
+        "AIT_AITCD": "4215",
+        "AIT_MEISJ": "赤坂飯店　銀座松坂屋",
+        "AIT_SEISJ": "華昌有限会社"
+      },
+      {
+        "AIT_AITCD": "4216",
+        "AIT_MEISJ": "スーパー　ナニワヤ",
+        "AIT_SEISJ": "株式会社ナニワヤ"
+      },
+      {
+        "AIT_AITCD": "4217",
+        "AIT_MEISJ": "（株）ＫＩＺＵＫＩＹＯ",
+        "AIT_SEISJ": "株式会社ＫＩＺＵＫＩＹＯ"
+      },
+      {
+        "AIT_AITCD": "4218",
+        "AIT_MEISJ": "つな八　渋谷　ヒカリエ店",
+        "AIT_SEISJ": "株式会社  つな八"
+      },
+      {
+        "AIT_AITCD": "4219",
+        "AIT_MEISJ": "綱八　東京スカイツリータウン・ソラマチ店",
+        "AIT_SEISJ": "株式会社綱八"
+      },
+      {
+        "AIT_AITCD": "4220",
+        "AIT_MEISJ": "㈱　吉池　神田放心亭　（587）",
+        "AIT_SEISJ": "株式会社吉池"
+      },
+      {
+        "AIT_AITCD": "4221",
+        "AIT_MEISJ": "（株）吉池　放心亭フライ部１２５８",
+        "AIT_SEISJ": "株式会社吉池"
+      },
+      {
+        "AIT_AITCD": "4222",
+        "AIT_MEISJ": "富海",
+        "AIT_SEISJ": "永発商事株式会社"
+      },
+      {
+        "AIT_AITCD": "4223",
+        "AIT_MEISJ": "（株）紙安　東京",
+        "AIT_SEISJ": "株式会社紙安東京"
+      },
+      {
+        "AIT_AITCD": "4224",
+        "AIT_MEISJ": "まつ里亭",
+        "AIT_SEISJ": "まつ里亭"
+      },
+      {
+        "AIT_AITCD": "4225",
+        "AIT_MEISJ": "糸とんぼ",
+        "AIT_SEISJ": "糸とんぼ"
+      },
+      {
+        "AIT_AITCD": "4226",
+        "AIT_MEISJ": "（株）浦和藤食",
+        "AIT_SEISJ": "株式会社浦和藤食"
+      },
+      {
+        "AIT_AITCD": "4227",
+        "AIT_MEISJ": "綱八  本店",
+        "AIT_SEISJ": "株式会社綱八"
+      },
+      {
+        "AIT_AITCD": "4228",
+        "AIT_MEISJ": "綱八  （町田）",
+        "AIT_SEISJ": "株式会社綱八"
+      },
+      {
+        "AIT_AITCD": "4229",
+        "AIT_MEISJ": "つな八　東武",
+        "AIT_SEISJ": "株式会社　つな八"
+      },
+      {
+        "AIT_AITCD": "4230",
+        "AIT_MEISJ": "つな八　渋谷店",
+        "AIT_SEISJ": "株式会社  つな八"
+      },
+      {
+        "AIT_AITCD": "4231",
+        "AIT_MEISJ": "つな八　霞ケ関",
+        "AIT_SEISJ": "株式会社  つな八"
+      },
+      {
+        "AIT_AITCD": "4232",
+        "AIT_MEISJ": "つな八　目黒",
+        "AIT_SEISJ": "株式会社  つな八"
+      },
+      {
+        "AIT_AITCD": "4233",
+        "AIT_MEISJ": "つな八　上野",
+        "AIT_SEISJ": "株式会社  つな八"
+      },
+      {
+        "AIT_AITCD": "4234",
+        "AIT_MEISJ": "株式会社  土屋商店",
+        "AIT_SEISJ": "株式会社  土屋商店"
+      },
+      {
+        "AIT_AITCD": "4235",
+        "AIT_MEISJ": "つな八　川崎",
+        "AIT_SEISJ": "株式会社  つな八"
+      },
+      {
+        "AIT_AITCD": "4236",
+        "AIT_MEISJ": "綱八　亀戸デリカ店",
+        "AIT_SEISJ": "株式会社綱八"
+      },
+      {
+        "AIT_AITCD": "4237",
+        "AIT_MEISJ": "綱八　札幌デリカ店",
+        "AIT_SEISJ": "株式会社綱八"
+      },
+      {
+        "AIT_AITCD": "4238",
+        "AIT_MEISJ": "つな八　道玄坂",
+        "AIT_SEISJ": "株式会社  つな八"
+      },
+      {
+        "AIT_AITCD": "4239",
+        "AIT_MEISJ": "(有)平正商店",
+        "AIT_SEISJ": "有限会社平正商店"
+      },
+      {
+        "AIT_AITCD": "4240",
+        "AIT_MEISJ": "(有)平正商店（アジア八百正）",
+        "AIT_SEISJ": "有限会社平正商店（アジア八百正）"
+      },
+      {
+        "AIT_AITCD": "4241",
+        "AIT_MEISJ": "（株）群水商事",
+        "AIT_SEISJ": "株式会社群水商事"
+      },
+      {
+        "AIT_AITCD": "4242",
+        "AIT_MEISJ": "株式会社銀座天国",
+        "AIT_SEISJ": "株式会社銀座天国"
+      },
+      {
+        "AIT_AITCD": "4243",
+        "AIT_MEISJ": "天  国（四丁目）",
+        "AIT_SEISJ": "天  国（四丁目）"
+      },
+      {
+        "AIT_AITCD": "4244",
+        "AIT_MEISJ": "天  国（立食）",
+        "AIT_SEISJ": "株式会社  銀座天国"
+      },
+      {
+        "AIT_AITCD": "4245",
+        "AIT_MEISJ": "＊＊＊天  国（池袋）＊＊＊",
+        "AIT_SEISJ": "天  国（池袋）"
+      },
+      {
+        "AIT_AITCD": "4246",
+        "AIT_MEISJ": "（株）群馬県水産市場",
+        "AIT_SEISJ": "株式会社群馬県水産市場"
+      },
+      {
+        "AIT_AITCD": "4247",
+        "AIT_MEISJ": "㈱カントー",
+        "AIT_SEISJ": "株式会社カントー"
+      },
+      {
+        "AIT_AITCD": "4248",
+        "AIT_MEISJ": "㈱ショクリュー　中部支社商品部加工食品",
+        "AIT_SEISJ": "株式会社ショクリュー"
+      },
+      {
+        "AIT_AITCD": "4249",
+        "AIT_MEISJ": "㈱アトラス",
+        "AIT_SEISJ": "株式会社アトラス"
+      },
+      {
+        "AIT_AITCD": "4250",
+        "AIT_MEISJ": "合資会社天國",
+        "AIT_SEISJ": "合資会社天國"
+      },
+      {
+        "AIT_AITCD": "4251",
+        "AIT_MEISJ": "とんわ",
+        "AIT_SEISJ": "西藤  有限会社"
+      },
+      {
+        "AIT_AITCD": "4252",
+        "AIT_MEISJ": "㈱ショクリュー関西支社　営業部　大阪営",
+        "AIT_SEISJ": "株式会社ショクリュー"
+      },
+      {
+        "AIT_AITCD": "4253",
+        "AIT_MEISJ": "㈱ハンスイ　湘南支店",
+        "AIT_SEISJ": "株式会社ハンスイ"
+      },
+      {
+        "AIT_AITCD": "4254",
+        "AIT_MEISJ": "居酒屋　てまり",
+        "AIT_SEISJ": "株式会社エムフーズプランニング"
+      },
+      {
+        "AIT_AITCD": "4255",
+        "AIT_MEISJ": "㈱ショクリュー東日本支社広域販売課",
+        "AIT_SEISJ": "株式会社ショクリュー東日本支社広域販売課"
+      },
+      {
+        "AIT_AITCD": "4256",
+        "AIT_MEISJ": "綱八  （北千住）",
+        "AIT_SEISJ": "株式会社綱八"
+      },
+      {
+        "AIT_AITCD": "4257",
+        "AIT_MEISJ": "サン・フードサービス　ヒルトン東京",
+        "AIT_SEISJ": "有限会社サン・フードサービス"
+      },
+      {
+        "AIT_AITCD": "4258",
+        "AIT_MEISJ": "鳥  長",
+        "AIT_SEISJ": "鳥  長"
+      },
+      {
+        "AIT_AITCD": "4259",
+        "AIT_MEISJ": "横浜丸魚㈱",
+        "AIT_SEISJ": "横浜丸魚株式会社"
+      },
+      {
+        "AIT_AITCD": "4260",
+        "AIT_MEISJ": "綱  八（ヒルトン）",
+        "AIT_SEISJ": "株式会社綱八"
+      },
+      {
+        "AIT_AITCD": "4261",
+        "AIT_MEISJ": "徳寿",
+        "AIT_SEISJ": "株式会社西原カンパニー"
+      },
+      {
+        "AIT_AITCD": "4262",
+        "AIT_MEISJ": "＊＊＊ドンキテイ＊＊＊",
+        "AIT_SEISJ": "＊＊＊株式会社  東展企業（ドンキテイ＊＊"
+      },
+      {
+        "AIT_AITCD": "4263",
+        "AIT_MEISJ": "京和商事　１Ｆ",
+        "AIT_SEISJ": "株式会社京和商事"
+      },
+      {
+        "AIT_AITCD": "4264",
+        "AIT_MEISJ": "（有）丸清永井水産",
+        "AIT_SEISJ": "（有）丸清永井水産"
+      },
+      {
+        "AIT_AITCD": "4265",
+        "AIT_MEISJ": "コウメイ商事",
+        "AIT_SEISJ": "有限会社ＫＯＭＥＩ商事"
+      },
+      {
+        "AIT_AITCD": "4266",
+        "AIT_MEISJ": "ハンワフーズ㈱",
+        "AIT_SEISJ": "ハンワフーズ株式会社"
+      },
+      {
+        "AIT_AITCD": "4267",
+        "AIT_MEISJ": "株ヤマイシ",
+        "AIT_SEISJ": "株式会社ヤマイシ"
+      },
+      {
+        "AIT_AITCD": "4268",
+        "AIT_MEISJ": "＊＊＊並木商店＊＊＊",
+        "AIT_SEISJ": "＊＊＊有限会社  並木商店＊＊＊"
+      },
+      {
+        "AIT_AITCD": "4269",
+        "AIT_MEISJ": "華コーポレーション（株）",
+        "AIT_SEISJ": "華コーポレーション株式会社"
+      },
+      {
+        "AIT_AITCD": "4270",
+        "AIT_MEISJ": "長瀬  正利  商店",
+        "AIT_SEISJ": "長瀬  正利  商店"
+      },
+      {
+        "AIT_AITCD": "4271",
+        "AIT_MEISJ": "タカシンフーズ",
+        "AIT_SEISJ": "有限会社　タカシン・フーズ"
+      },
+      {
+        "AIT_AITCD": "4272",
+        "AIT_MEISJ": "株式会社上野水産",
+        "AIT_SEISJ": "株式会社上野水産"
+      },
+      {
+        "AIT_AITCD": "4273",
+        "AIT_MEISJ": "㈲マルウ商事",
+        "AIT_SEISJ": "有限会社マルウ商事"
+      },
+      {
+        "AIT_AITCD": "4274",
+        "AIT_MEISJ": "かいせい物産（株）",
+        "AIT_SEISJ": "かいせい物産株式会社"
+      },
+      {
+        "AIT_AITCD": "4275",
+        "AIT_MEISJ": "磯崎",
+        "AIT_SEISJ": "株式会社磯崎"
+      },
+      {
+        "AIT_AITCD": "4276",
+        "AIT_MEISJ": "＊＊＊長谷川寿し（駒込）＊＊＊",
+        "AIT_SEISJ": "＊＊＊長谷川寿し（駒込）＊＊＊"
+      },
+      {
+        "AIT_AITCD": "4277",
+        "AIT_MEISJ": "（株）渡邊商事　営業部",
+        "AIT_SEISJ": "株式会社渡邊商事"
+      },
+      {
+        "AIT_AITCD": "4278",
+        "AIT_MEISJ": "（株）渡邊商事　製造部",
+        "AIT_SEISJ": "株式会社渡邊商事"
+      },
+      {
+        "AIT_AITCD": "4279",
+        "AIT_MEISJ": "米川水産株式会社",
+        "AIT_SEISJ": "米川水産株式会社"
+      },
+      {
+        "AIT_AITCD": "4280",
+        "AIT_MEISJ": "株式会社　総食　（熱海）",
+        "AIT_SEISJ": "株式会社  総食　（熱海）"
+      },
+      {
+        "AIT_AITCD": "4281",
+        "AIT_MEISJ": "京和商事　Ｂ１",
+        "AIT_SEISJ": "株式会社京和商事"
+      },
+      {
+        "AIT_AITCD": "4282",
+        "AIT_MEISJ": "＊＊＊浜田屋（人形町）＊＊＊",
+        "AIT_SEISJ": "＊＊＊株式会社  浜田家＊＊＊"
+      },
+      {
+        "AIT_AITCD": "4283",
+        "AIT_MEISJ": "（株）浜伸物産",
+        "AIT_SEISJ": "（株）浜伸物産"
+      },
+      {
+        "AIT_AITCD": "4284",
+        "AIT_MEISJ": "柏　宇野",
+        "AIT_SEISJ": "株式会社柏　宇野"
+      },
+      {
+        "AIT_AITCD": "4285",
+        "AIT_MEISJ": "魚  春（７部）",
+        "AIT_SEISJ": "魚  春（７部）    相原春伸"
+      },
+      {
+        "AIT_AITCD": "4286",
+        "AIT_MEISJ": "吉池606号",
+        "AIT_SEISJ": "株式会社  吉池"
+      },
+      {
+        "AIT_AITCD": "4287",
+        "AIT_MEISJ": "吉池1675号",
+        "AIT_SEISJ": "株式会社  吉池"
+      },
+      {
+        "AIT_AITCD": "4288",
+        "AIT_MEISJ": "パイオニア水産",
+        "AIT_SEISJ": "有限会社  パイオニア水産"
+      },
+      {
+        "AIT_AITCD": "4289",
+        "AIT_MEISJ": "英  鮨（上野店）",
+        "AIT_SEISJ": "株式会社  共英"
+      },
+      {
+        "AIT_AITCD": "4290",
+        "AIT_MEISJ": "日の出鮨",
+        "AIT_SEISJ": "日の出興産  株式会社"
+      },
+      {
+        "AIT_AITCD": "4291",
+        "AIT_MEISJ": "英鮨  渋谷道玄坂店",
+        "AIT_SEISJ": "株式会社  共英"
+      },
+      {
+        "AIT_AITCD": "4292",
+        "AIT_MEISJ": "英鮨  第二上野店",
+        "AIT_SEISJ": "株式会社  共英"
+      },
+      {
+        "AIT_AITCD": "4293",
+        "AIT_MEISJ": "㈱協和物産",
+        "AIT_SEISJ": "株式会社協和物産"
+      },
+      {
+        "AIT_AITCD": "4294",
+        "AIT_MEISJ": "株式会社シュン",
+        "AIT_SEISJ": "株式会社シュン"
+      },
+      {
+        "AIT_AITCD": "4295",
+        "AIT_MEISJ": "英  鮨（金町店）",
+        "AIT_SEISJ": "英  鮨（金町店）"
+      },
+      {
+        "AIT_AITCD": "4296",
+        "AIT_MEISJ": "萬幸水産",
+        "AIT_SEISJ": "有限会社萬幸水産"
+      },
+      {
+        "AIT_AITCD": "4297",
+        "AIT_MEISJ": "(株)東海若松",
+        "AIT_SEISJ": "株式会社東海若松"
+      },
+      {
+        "AIT_AITCD": "4298",
+        "AIT_MEISJ": "Ｈ・Ｇ・Ｃ",
+        "AIT_SEISJ": "有限会社Ｈ・Ｇ・Ｃ"
+      },
+      {
+        "AIT_AITCD": "4299",
+        "AIT_MEISJ": "(株)菊池水産",
+        "AIT_SEISJ": "株式会社菊池水産"
+      },
+      {
+        "AIT_AITCD": "4300",
+        "AIT_MEISJ": "越一",
+        "AIT_SEISJ": "有限会社　越一"
+      },
+      {
+        "AIT_AITCD": "4301",
+        "AIT_MEISJ": "STマリン",
+        "AIT_SEISJ": "合同会社STマリン"
+      },
+      {
+        "AIT_AITCD": "4302",
+        "AIT_MEISJ": "築地・海鮮丼　大江戸",
+        "AIT_SEISJ": "有限会社メビウスフードナビゲーション"
+      },
+      {
+        "AIT_AITCD": "4303",
+        "AIT_MEISJ": "コウキ物産",
+        "AIT_SEISJ": "永発商事株式会社"
+      },
+      {
+        "AIT_AITCD": "4304",
+        "AIT_MEISJ": "春海水産",
+        "AIT_SEISJ": "株式会社春海水産"
+      },
+      {
+        "AIT_AITCD": "4305",
+        "AIT_MEISJ": "佃熊　第２営業部",
+        "AIT_SEISJ": "株式会社　佃熊"
+      },
+      {
+        "AIT_AITCD": "4306",
+        "AIT_MEISJ": "星庄",
+        "AIT_SEISJ": "株式会社星庄"
+      },
+      {
+        "AIT_AITCD": "4307",
+        "AIT_MEISJ": "㈱ショクリュー商品３部　広域販売2課",
+        "AIT_SEISJ": "㈱ショクリュー商品３部　広域販売2課"
+      },
+      {
+        "AIT_AITCD": "4308",
+        "AIT_MEISJ": "＊＊＊株式会社  星水産＊＊＊",
+        "AIT_SEISJ": "＊＊＊株式会社  星水産＊＊＊"
+      },
+      {
+        "AIT_AITCD": "4309",
+        "AIT_MEISJ": "㈱ショクリュー西日本支社営業部　福岡(営)",
+        "AIT_SEISJ": "株式会社ショクリュー"
+      },
+      {
+        "AIT_AITCD": "4310",
+        "AIT_MEISJ": "オーシャンリンク",
+        "AIT_SEISJ": "オーシャンリンク"
+      },
+      {
+        "AIT_AITCD": "4311",
+        "AIT_MEISJ": "＊＊＊丸文＊＊＊",
+        "AIT_SEISJ": "＊＊＊丸文＊＊＊"
+      },
+      {
+        "AIT_AITCD": "4312",
+        "AIT_MEISJ": "林田水産",
+        "AIT_SEISJ": "有限会社林田水産"
+      },
+      {
+        "AIT_AITCD": "4313",
+        "AIT_MEISJ": "丸大商店",
+        "AIT_SEISJ": "株式会社丸大商店"
+      },
+      {
+        "AIT_AITCD": "4314",
+        "AIT_MEISJ": "＊＊＊丸甲堺周水産  株式会社＊＊＊",
+        "AIT_SEISJ": "＊＊＊丸甲堺周水産  株式会社＊＊＊"
+      },
+      {
+        "AIT_AITCD": "4315",
+        "AIT_MEISJ": "㈱にっぱん",
+        "AIT_SEISJ": "株式会社にっぱん"
+      },
+      {
+        "AIT_AITCD": "4316",
+        "AIT_MEISJ": "うおいち大阪",
+        "AIT_SEISJ": "株式会社うおいち"
+      },
+      {
+        "AIT_AITCD": "4317",
+        "AIT_MEISJ": "立ち飲みいこい",
+        "AIT_SEISJ": "株式会社アサヌマ"
+      },
+      {
+        "AIT_AITCD": "4318",
+        "AIT_MEISJ": "好又鮮",
+        "AIT_SEISJ": "好又鮮"
+      },
+      {
+        "AIT_AITCD": "4319",
+        "AIT_MEISJ": "東盛商事",
+        "AIT_SEISJ": "株式会社東盛商事"
+      },
+      {
+        "AIT_AITCD": "4320",
+        "AIT_MEISJ": "㈱ジャパンフードプロデュース",
+        "AIT_SEISJ": "株式会社ジャパンフードプロデュース"
+      },
+      {
+        "AIT_AITCD": "4321",
+        "AIT_MEISJ": "株式会社  丸昌",
+        "AIT_SEISJ": "株式会社  丸昌"
+      },
+      {
+        "AIT_AITCD": "4322",
+        "AIT_MEISJ": "渡辺水産",
+        "AIT_SEISJ": "渡辺水産"
+      },
+      {
+        "AIT_AITCD": "4323",
+        "AIT_MEISJ": "万  喜  軽井沢",
+        "AIT_SEISJ": "天布良家  万喜  軽井沢"
+      },
+      {
+        "AIT_AITCD": "4324",
+        "AIT_MEISJ": "魚やす",
+        "AIT_SEISJ": "魚やす"
+      },
+      {
+        "AIT_AITCD": "4325",
+        "AIT_MEISJ": "海珍鮮魚店",
+        "AIT_SEISJ": "海珍鮮魚店"
+      },
+      {
+        "AIT_AITCD": "4326",
+        "AIT_MEISJ": "海明",
+        "AIT_SEISJ": "海明"
+      },
+      {
+        "AIT_AITCD": "4327",
+        "AIT_MEISJ": "（株）豊橋魚市場",
+        "AIT_SEISJ": "株式会社豊橋魚市場"
+      },
+      {
+        "AIT_AITCD": "4328",
+        "AIT_MEISJ": "日本工業倶楽部",
+        "AIT_SEISJ": "一般社団法人日本工業倶楽部"
+      },
+      {
+        "AIT_AITCD": "4329",
+        "AIT_MEISJ": "横浜ビール",
+        "AIT_SEISJ": "株式会社横浜ビール"
+      },
+      {
+        "AIT_AITCD": "4330",
+        "AIT_MEISJ": "＊＊＊マルサン＊＊＊",
+        "AIT_SEISJ": "＊＊＊マルサン＊＊＊"
+      },
+      {
+        "AIT_AITCD": "4331",
+        "AIT_MEISJ": "ノザワ",
+        "AIT_SEISJ": "株式会社ノザワ"
+      },
+      {
+        "AIT_AITCD": "4332",
+        "AIT_MEISJ": "常洋水産株式会社",
+        "AIT_SEISJ": "常洋水産株式会社"
+      },
+      {
+        "AIT_AITCD": "4333",
+        "AIT_MEISJ": "丸  定",
+        "AIT_SEISJ": "（有）丸  定"
+      },
+      {
+        "AIT_AITCD": "4334",
+        "AIT_MEISJ": "よね蔵",
+        "AIT_SEISJ": "株式会社よね蔵"
+      },
+      {
+        "AIT_AITCD": "4335",
+        "AIT_MEISJ": "港鮨",
+        "AIT_SEISJ": "港鮨"
+      },
+      {
+        "AIT_AITCD": "4337",
+        "AIT_MEISJ": "（株）三上水産",
+        "AIT_SEISJ": "株式会社  三上水産"
+      },
+      {
+        "AIT_AITCD": "4339",
+        "AIT_MEISJ": "＊＊＊（株）築地  宮沢＊＊",
+        "AIT_SEISJ": "株式会社  築地  宮沢"
+      },
+      {
+        "AIT_AITCD": "4340",
+        "AIT_MEISJ": "イケウチ㈱",
+        "AIT_SEISJ": "イケウチ株式会社"
+      },
+      {
+        "AIT_AITCD": "4341",
+        "AIT_MEISJ": "いわき魚類  株式会社",
+        "AIT_SEISJ": "いわき魚類  株式会社"
+      },
+      {
+        "AIT_AITCD": "4342",
+        "AIT_MEISJ": "酒井水産㈱",
+        "AIT_SEISJ": "酒井水産株式会社"
+      },
+      {
+        "AIT_AITCD": "4343",
+        "AIT_MEISJ": "日食",
+        "AIT_SEISJ": "日本食品商事株式会社"
+      },
+      {
+        "AIT_AITCD": "4347",
+        "AIT_MEISJ": "＊＊＊魚  金（８０  森川）＊＊＊",
+        "AIT_SEISJ": "＊＊＊魚  金        森川千里＊＊＊"
+      },
+      {
+        "AIT_AITCD": "4351",
+        "AIT_MEISJ": "株式会社  山岸水産",
+        "AIT_SEISJ": "株式会社  山岸水産"
+      },
+      {
+        "AIT_AITCD": "4352",
+        "AIT_MEISJ": "***株式会社　白川屋商店",
+        "AIT_SEISJ": "***株式会社白川屋商店"
+      },
+      {
+        "AIT_AITCD": "4353",
+        "AIT_MEISJ": "＊＊＊㈱ショクリュー 浅草営業所＊＊＊",
+        "AIT_SEISJ": "＊＊＊株式会社ショクリュー  浅草営業所＊"
+      },
+      {
+        "AIT_AITCD": "4356",
+        "AIT_MEISJ": "＊＊＊矢  吹＊＊＊",
+        "AIT_SEISJ": "＊＊＊天ぷら  矢  吹      矢吹泰一＊＊＊"
+      },
+      {
+        "AIT_AITCD": "4358",
+        "AIT_MEISJ": "㈱  かに谷",
+        "AIT_SEISJ": "株式会社  かに谷"
+      },
+      {
+        "AIT_AITCD": "4360",
+        "AIT_MEISJ": "株式会社  山の上ホテル",
+        "AIT_SEISJ": "株式会社  山の上ホテル"
+      },
+      {
+        "AIT_AITCD": "4361",
+        "AIT_MEISJ": "＊＊＊家万喜＊＊＊",
+        "AIT_SEISJ": "＊＊＊家万喜      清水啓子＊＊＊"
+      },
+      {
+        "AIT_AITCD": "4364",
+        "AIT_MEISJ": "（有）山口水産",
+        "AIT_SEISJ": "有限会社  山口水産"
+      },
+      {
+        "AIT_AITCD": "4368",
+        "AIT_MEISJ": "豊鮨",
+        "AIT_SEISJ": "豊鮨"
+      },
+      {
+        "AIT_AITCD": "4370",
+        "AIT_MEISJ": "＊＊＊吉野鮨（旭ケ丘）＊＊＊",
+        "AIT_SEISJ": "＊＊＊吉野鮨（旭ケ丘）＊＊＊"
+      },
+      {
+        "AIT_AITCD": "4373",
+        "AIT_MEISJ": "＊＊＊魚与四＊＊＊",
+        "AIT_SEISJ": "＊＊＊魚与四        布施義一＊＊＊"
+      },
+      {
+        "AIT_AITCD": "4374",
+        "AIT_MEISJ": "（株）吉富魚類",
+        "AIT_SEISJ": "（株）吉富魚類"
+      },
+      {
+        "AIT_AITCD": "4378",
+        "AIT_MEISJ": "横山商店",
+        "AIT_SEISJ": "横山商店"
+      },
+      {
+        "AIT_AITCD": "4379",
+        "AIT_MEISJ": "吾妻鮨",
+        "AIT_SEISJ": "吾妻鮨"
+      },
+      {
+        "AIT_AITCD": "4381",
+        "AIT_MEISJ": "㈲  セブンシー",
+        "AIT_SEISJ": "有限会社  セブンシー"
+      },
+      {
+        "AIT_AITCD": "4385",
+        "AIT_MEISJ": "＊＊＊マルイワ  イワトシ＊＊＊",
+        "AIT_SEISJ": "＊＊＊有限会社  マルイワいわとし＊＊＊"
+      },
+      {
+        "AIT_AITCD": "4386",
+        "AIT_MEISJ": "豊田通商  株式会社",
+        "AIT_SEISJ": "豊田通商  株式会社  東京本社"
+      },
+      {
+        "AIT_AITCD": "4387",
+        "AIT_MEISJ": "㈱  海老喜",
+        "AIT_SEISJ": "（株）海老喜"
+      },
+      {
+        "AIT_AITCD": "4388",
+        "AIT_MEISJ": "飯島商事",
+        "AIT_SEISJ": "株式会社  飯島商事"
+      },
+      {
+        "AIT_AITCD": "4389",
+        "AIT_MEISJ": "＊＊＊川崎丸魚㈱北部＊＊＊",
+        "AIT_SEISJ": "＊＊＊川崎丸魚㈱北部＊＊＊"
+      },
+      {
+        "AIT_AITCD": "4392",
+        "AIT_MEISJ": "＊＊＊総合食品（株）＊＊＊",
+        "AIT_SEISJ": "総合食品（株）"
+      },
+      {
+        "AIT_AITCD": "4393",
+        "AIT_MEISJ": "大清",
+        "AIT_SEISJ": "大清"
+      },
+      {
+        "AIT_AITCD": "4394",
+        "AIT_MEISJ": "天    勘",
+        "AIT_SEISJ": "有限会社  天勘"
+      },
+      {
+        "AIT_AITCD": "4396",
+        "AIT_MEISJ": "竹勘",
+        "AIT_SEISJ": "㈱  竹勘"
+      },
+      {
+        "AIT_AITCD": "4398",
+        "AIT_MEISJ": "静岡第一水産㈱",
+        "AIT_SEISJ": "静岡第一水産株式会社"
+      },
+      {
+        "AIT_AITCD": "4399",
+        "AIT_MEISJ": "レストラン  秀",
+        "AIT_SEISJ": "レストラン  秀"
+      },
+      {
+        "AIT_AITCD": "4400",
+        "AIT_MEISJ": "社  員",
+        "AIT_SEISJ": "社  員"
+      },
+      {
+        "AIT_AITCD": "4403",
+        "AIT_MEISJ": "㈱  五洋商会",
+        "AIT_SEISJ": "株式会社  五洋商会"
+      },
+      {
+        "AIT_AITCD": "4407",
+        "AIT_MEISJ": "岸本商事  株式会社",
+        "AIT_SEISJ": "岸本商事  株式会社"
+      },
+      {
+        "AIT_AITCD": "4410",
+        "AIT_MEISJ": "＊＊＊英鮨  築地屋＊＊＊",
+        "AIT_SEISJ": "＊＊＊株式会社  共英＊＊＊"
+      },
+      {
+        "AIT_AITCD": "4415",
+        "AIT_MEISJ": "＊＊＊株式会社  三和＊＊＊",
+        "AIT_SEISJ": "＊＊＊株式会社  三和＊＊＊"
+      },
+      {
+        "AIT_AITCD": "4417",
+        "AIT_MEISJ": "株式会社  成吉商店",
+        "AIT_SEISJ": "株式会社  成吉商店"
+      },
+      {
+        "AIT_AITCD": "4418",
+        "AIT_MEISJ": "＊＊＊㈱  三和海産＊＊＊",
+        "AIT_SEISJ": "＊＊＊株式会社  三和海産＊＊＊"
+      },
+      {
+        "AIT_AITCD": "4420",
+        "AIT_MEISJ": "つな八  田町",
+        "AIT_SEISJ": "株式会社  つな八"
+      },
+      {
+        "AIT_AITCD": "4423",
+        "AIT_MEISJ": "＊＊＊天浮船＊＊＊",
+        "AIT_SEISJ": "＊＊＊株式会社  天浮船＊＊＊"
+      },
+      {
+        "AIT_AITCD": "4424",
+        "AIT_MEISJ": "＊＊＊串えもん＊＊＊",
+        "AIT_SEISJ": "＊＊＊株式会社  サイプレス＊＊＊"
+      },
+      {
+        "AIT_AITCD": "4425",
+        "AIT_MEISJ": "＊＊＊魚がし鮨  田町店＊＊＊",
+        "AIT_SEISJ": "＊＊＊株式会社  共英＊＊＊"
+      },
+      {
+        "AIT_AITCD": "4426",
+        "AIT_MEISJ": "㈱ショクリュー 名古屋営業所",
+        "AIT_SEISJ": "株式会社ショクリュー  名古屋営業所"
+      },
+      {
+        "AIT_AITCD": "4428",
+        "AIT_MEISJ": "（株）ニッコンサービス",
+        "AIT_SEISJ": "株式会社  ニッコンサービス"
+      },
+      {
+        "AIT_AITCD": "4429",
+        "AIT_MEISJ": "＊＊＊日  商＊＊＊",
+        "AIT_SEISJ": "＊＊＊日  商＊＊＊"
+      },
+      {
+        "AIT_AITCD": "4430",
+        "AIT_MEISJ": "金沢食品  株式会社",
+        "AIT_SEISJ": "金沢食品  株式会社"
+      },
+      {
+        "AIT_AITCD": "4432",
+        "AIT_MEISJ": "㈱ショクリュー加工品営業部一課",
+        "AIT_SEISJ": "㈱ショクリュー"
+      },
+      {
+        "AIT_AITCD": "4434",
+        "AIT_MEISJ": "㈱ショクリュー横浜営業所",
+        "AIT_SEISJ": "株式会社ショクリュー横浜営業所"
+      },
+      {
+        "AIT_AITCD": "4435",
+        "AIT_MEISJ": "＊＊＊㈱ショクリュー千葉営業所＊＊＊",
+        "AIT_SEISJ": "＊＊＊（株）ショクリュー千葉営業所＊＊＊"
+      },
+      {
+        "AIT_AITCD": "4436",
+        "AIT_MEISJ": "㈱ショクリュー浦安営業所",
+        "AIT_SEISJ": "（株）ショクリュー浦安営業所"
+      },
+      {
+        "AIT_AITCD": "4437",
+        "AIT_MEISJ": "㈱ショクリュー　東日本支社仙台事業所",
+        "AIT_SEISJ": "㈱ショクリュー　東日本支社仙台事業所"
+      },
+      {
+        "AIT_AITCD": "4438",
+        "AIT_MEISJ": "㈱ショクリュー　営業部Ｃ",
+        "AIT_SEISJ": "（株）ショクリュー営業部Ｃ"
+      },
+      {
+        "AIT_AITCD": "4439",
+        "AIT_MEISJ": "＊＊＊㈱ショクリュー新宿営業所＊＊＊",
+        "AIT_SEISJ": "＊＊＊（株）ショクリュー新宿営業所＊＊＊"
+      },
+      {
+        "AIT_AITCD": "4440",
+        "AIT_MEISJ": "㈱ショクリュー北陸営業所",
+        "AIT_SEISJ": "（株）ショクリュー北陸営業所"
+      },
+      {
+        "AIT_AITCD": "4441",
+        "AIT_MEISJ": "㈱ショクリュー　京都営業所",
+        "AIT_SEISJ": "株式会社ショクリュー"
+      },
+      {
+        "AIT_AITCD": "4442",
+        "AIT_MEISJ": "㈱ショクリュー販売促進課",
+        "AIT_SEISJ": "株式会社ショクリュー  販売促進課"
+      },
+      {
+        "AIT_AITCD": "4443",
+        "AIT_MEISJ": "＊＊＊㈱ショクリュー八王子営業所＊＊＊",
+        "AIT_SEISJ": "＊＊＊株式会社ショクリュー＊＊＊"
+      },
+      {
+        "AIT_AITCD": "4444",
+        "AIT_MEISJ": "＊＊＊㈱  魚耕＊＊＊",
+        "AIT_SEISJ": "＊＊＊株式会社  魚耕＊＊＊"
+      },
+      {
+        "AIT_AITCD": "4445",
+        "AIT_MEISJ": "㈱ショクリュー 宇部営業所",
+        "AIT_SEISJ": "㈱ショクリュー  宇部営業所"
+      },
+      {
+        "AIT_AITCD": "4446",
+        "AIT_MEISJ": "＊＊＊日本料理　にしき＊＊＊",
+        "AIT_SEISJ": "＊＊＊日本料理  にしき＊＊＊"
+      },
+      {
+        "AIT_AITCD": "4447",
+        "AIT_MEISJ": "新宿つな八食堂　立川店",
+        "AIT_SEISJ": "エンタープライズ・ヒサクラ　株式会社"
+      },
+      {
+        "AIT_AITCD": "4448",
+        "AIT_MEISJ": "㈱  綱  八（川崎）",
+        "AIT_SEISJ": "エンタープライズ・ヒサクラ　株式会社"
+      },
+      {
+        "AIT_AITCD": "4449",
+        "AIT_MEISJ": "つな八　本部",
+        "AIT_SEISJ": "株式会社  つな八"
+      },
+      {
+        "AIT_AITCD": "4450",
+        "AIT_MEISJ": "㈱大田合水",
+        "AIT_SEISJ": "株式会社  大田合水"
+      },
+      {
+        "AIT_AITCD": "4451",
+        "AIT_MEISJ": "やまは食品  株式会社",
+        "AIT_SEISJ": "やまは食品  株式会社"
+      },
+      {
+        "AIT_AITCD": "4455",
+        "AIT_MEISJ": "***(株)吉池***",
+        "AIT_SEISJ": "***株式会社  吉池"
+      },
+      {
+        "AIT_AITCD": "4457",
+        "AIT_MEISJ": "魚がし鮨  本店",
+        "AIT_SEISJ": "株式会社  共英"
+      },
+      {
+        "AIT_AITCD": "4458",
+        "AIT_MEISJ": "玉子家",
+        "AIT_SEISJ": "有限会社  玉子家"
+      },
+      {
+        "AIT_AITCD": "4460",
+        "AIT_MEISJ": "＊＊＊市ケ谷食堂＊＊＊",
+        "AIT_SEISJ": "＊＊＊市ケ谷食堂      片倉徳治＊＊＊"
+      },
+      {
+        "AIT_AITCD": "4463",
+        "AIT_MEISJ": "株式会社  濱長",
+        "AIT_SEISJ": "株式会社  濱長"
+      },
+      {
+        "AIT_AITCD": "4467",
+        "AIT_MEISJ": "富長",
+        "AIT_SEISJ": "有限会社  富長"
+      },
+      {
+        "AIT_AITCD": "4468",
+        "AIT_MEISJ": "浜伸",
+        "AIT_SEISJ": "浜伸"
+      },
+      {
+        "AIT_AITCD": "4469",
+        "AIT_MEISJ": "すし和",
+        "AIT_SEISJ": "すし和"
+      },
+      {
+        "AIT_AITCD": "4470",
+        "AIT_MEISJ": "＊＊＊魚がし鮨  芝浦＊＊＊",
+        "AIT_SEISJ": "＊＊＊株式会社  共英＊＊＊"
+      },
+      {
+        "AIT_AITCD": "4471",
+        "AIT_MEISJ": "居酒屋がぶり　高円寺店",
+        "AIT_SEISJ": "株式会社エムフーズプランニング"
+      },
+      {
+        "AIT_AITCD": "4472",
+        "AIT_MEISJ": "＊＊＊ゴールドフィン＊＊＊",
+        "AIT_SEISJ": "＊＊＊株式会社  ゴールドフィン＊＊＊"
+      },
+      {
+        "AIT_AITCD": "4473",
+        "AIT_MEISJ": "居酒屋がぶり　下北沢店",
+        "AIT_SEISJ": "株式会社エムフーズプランニング"
+      },
+      {
+        "AIT_AITCD": "4477",
+        "AIT_MEISJ": "＊＊＊魚がし鮨  銀座＊＊＊",
+        "AIT_SEISJ": "＊＊＊株式会社  共英＊＊＊"
+      },
+      {
+        "AIT_AITCD": "4480",
+        "AIT_MEISJ": "＊＊＊㈱峰樹＊＊＊",
+        "AIT_SEISJ": "＊＊＊株式会社  峰樹＊＊＊"
+      },
+      {
+        "AIT_AITCD": "4481",
+        "AIT_MEISJ": "山形中央水産（株）",
+        "AIT_SEISJ": "山形中央水産株式会社"
+      },
+      {
+        "AIT_AITCD": "4486",
+        "AIT_MEISJ": "やまは食品  ㈱  熊本営業所",
+        "AIT_SEISJ": "やまは食品  株式会社"
+      },
+      {
+        "AIT_AITCD": "4491",
+        "AIT_MEISJ": "（有）丸考水産",
+        "AIT_SEISJ": "有限会社  丸考水産"
+      },
+      {
+        "AIT_AITCD": "4493",
+        "AIT_MEISJ": "新洋商事（株）",
+        "AIT_SEISJ": "新洋商事  株式会社"
+      },
+      {
+        "AIT_AITCD": "4494",
+        "AIT_MEISJ": "（有）ポキ゛ー",
+        "AIT_SEISJ": "有限会社  ポキ゛ー"
+      },
+      {
+        "AIT_AITCD": "4495",
+        "AIT_MEISJ": "㈱ジャパンミート　大袋店",
+        "AIT_SEISJ": "株式会社ジャパンミート"
+      },
+      {
+        "AIT_AITCD": "4496",
+        "AIT_MEISJ": "㈱ジャパンミート　新栄店",
+        "AIT_SEISJ": "株式会社ジャパンミート"
+      },
+      {
+        "AIT_AITCD": "4497",
+        "AIT_MEISJ": "㈱ジャパンミート　三郷店",
+        "AIT_SEISJ": "株式会社ジャパンミート"
+      },
+      {
+        "AIT_AITCD": "4498",
+        "AIT_MEISJ": "㈱ジャパンミート　王子店",
+        "AIT_SEISJ": "株式会社ジャパンミート"
+      },
+      {
+        "AIT_AITCD": "4499",
+        "AIT_MEISJ": "㈱ジャパンミート　大里店",
+        "AIT_SEISJ": "株式会社ジャパンミート"
+      },
+      {
+        "AIT_AITCD": "4500",
+        "AIT_MEISJ": "㈱ジャパンミート",
+        "AIT_SEISJ": "株式会社ジャパンミート"
+      },
+      {
+        "AIT_AITCD": "4503",
+        "AIT_MEISJ": "イマダ",
+        "AIT_SEISJ": "スーパー  イマダ"
+      },
+      {
+        "AIT_AITCD": "4505",
+        "AIT_MEISJ": "＊＊＊魚  利＊＊＊",
+        "AIT_SEISJ": "＊＊＊魚  利＊＊＊"
+      },
+      {
+        "AIT_AITCD": "4506",
+        "AIT_MEISJ": "灘  萬",
+        "AIT_SEISJ": "国際商品開発  株式会社"
+      },
+      {
+        "AIT_AITCD": "4508",
+        "AIT_MEISJ": "助  六",
+        "AIT_SEISJ": "有限会社  助六"
+      },
+      {
+        "AIT_AITCD": "4509",
+        "AIT_MEISJ": "生方商店",
+        "AIT_SEISJ": "生方商店"
+      },
+      {
+        "AIT_AITCD": "4510",
+        "AIT_MEISJ": "割烹料理  つしま",
+        "AIT_SEISJ": "割烹料理  つしま"
+      },
+      {
+        "AIT_AITCD": "4512",
+        "AIT_MEISJ": "出川水産  株式会社",
+        "AIT_SEISJ": "出川水産  株式会社"
+      },
+      {
+        "AIT_AITCD": "4517",
+        "AIT_MEISJ": "＊＊＊埼玉家＊＊＊",
+        "AIT_SEISJ": "＊＊＊埼玉家      山崎正義＊＊＊"
+      },
+      {
+        "AIT_AITCD": "4519",
+        "AIT_MEISJ": "株式会社  勘  八",
+        "AIT_SEISJ": "株式会社  勘  八"
+      },
+      {
+        "AIT_AITCD": "4523",
+        "AIT_MEISJ": "新宿天ぷら　つな八幕張新都心",
+        "AIT_SEISJ": "株式会社綱八"
+      },
+      {
+        "AIT_AITCD": "4524",
+        "AIT_MEISJ": "青森魚類（株）",
+        "AIT_SEISJ": "青森魚類  株式会社"
+      },
+      {
+        "AIT_AITCD": "4525",
+        "AIT_MEISJ": "㈱タジマ　吉川店",
+        "AIT_SEISJ": "株式会社タジマ"
+      },
+      {
+        "AIT_AITCD": "4526",
+        "AIT_MEISJ": "㈱タジマ　大袋店",
+        "AIT_SEISJ": "株式会社タジマ"
+      },
+      {
+        "AIT_AITCD": "4527",
+        "AIT_MEISJ": "㈱タジマ　田島店",
+        "AIT_SEISJ": "株式会社タジマ"
+      },
+      {
+        "AIT_AITCD": "4528",
+        "AIT_MEISJ": "㈱タジマ　武蔵浦和白幡店",
+        "AIT_SEISJ": "株式会社タジマ"
+      },
+      {
+        "AIT_AITCD": "4529",
+        "AIT_MEISJ": "㈱タジマ　武里店",
+        "AIT_SEISJ": "株式会社タジマ"
+      },
+      {
+        "AIT_AITCD": "4530",
+        "AIT_MEISJ": "㈱タジマ　新栄店",
+        "AIT_SEISJ": "株式会社タジマ"
+      },
+      {
+        "AIT_AITCD": "4531",
+        "AIT_MEISJ": "㈱タジマ　三郷店",
+        "AIT_SEISJ": "株式会社タジマ"
+      },
+      {
+        "AIT_AITCD": "4532",
+        "AIT_MEISJ": "㈱タジマ　高州店",
+        "AIT_SEISJ": "株式会社タジマ"
+      },
+      {
+        "AIT_AITCD": "4533",
+        "AIT_MEISJ": "㈱タジマ　王子店",
+        "AIT_SEISJ": "株式会社タジマ"
+      },
+      {
+        "AIT_AITCD": "4534",
+        "AIT_MEISJ": "㈱タジマ　大里店",
+        "AIT_SEISJ": "株式会社タジマ"
+      },
+      {
+        "AIT_AITCD": "4535",
+        "AIT_MEISJ": "㈱タジマ　木崎店",
+        "AIT_SEISJ": "株式会社タジマ"
+      },
+      {
+        "AIT_AITCD": "4536",
+        "AIT_MEISJ": "㈱タジマ　吉川南店",
+        "AIT_SEISJ": "株式会社タジマ"
+      },
+      {
+        "AIT_AITCD": "4537",
+        "AIT_MEISJ": "㈱タジマ　越谷バイパスせんげん台店",
+        "AIT_SEISJ": "株式会社タジマ"
+      },
+      {
+        "AIT_AITCD": "4538",
+        "AIT_MEISJ": "山石水産（株）",
+        "AIT_SEISJ": "山石水産株式会社"
+      },
+      {
+        "AIT_AITCD": "4542",
+        "AIT_MEISJ": "芳  明",
+        "AIT_SEISJ": "芳  明"
+      },
+      {
+        "AIT_AITCD": "4545",
+        "AIT_MEISJ": "＊＊＊小泉商店＊＊＊",
+        "AIT_SEISJ": "＊＊＊小泉商店＊＊＊"
+      },
+      {
+        "AIT_AITCD": "4546",
+        "AIT_MEISJ": "㈱ココスナカムラ　鳥越店",
+        "AIT_SEISJ": "株式会社　ココスナカムラ"
+      },
+      {
+        "AIT_AITCD": "4547",
+        "AIT_MEISJ": "㈱ココスナカムラ　麹町店",
+        "AIT_SEISJ": "株式会社　ココスナカムラ"
+      },
+      {
+        "AIT_AITCD": "4548",
+        "AIT_MEISJ": "㈱ココスナカムラ　入谷店",
+        "AIT_SEISJ": "株式会社　ココスナカムラ"
+      },
+      {
+        "AIT_AITCD": "4549",
+        "AIT_MEISJ": "㈱ココスナカムラ　町屋店",
+        "AIT_SEISJ": "株式会社　ココスナカムラ"
+      },
+      {
+        "AIT_AITCD": "4550",
+        "AIT_MEISJ": "㈱ココスナカムラ　梅島店",
+        "AIT_SEISJ": "株式会社　ココスナカムラ"
+      },
+      {
+        "AIT_AITCD": "4551",
+        "AIT_MEISJ": "㈱ココスナカムラ　関原店",
+        "AIT_SEISJ": "株式会社　ココスナカムラ"
+      },
+      {
+        "AIT_AITCD": "4552",
+        "AIT_MEISJ": "㈱ココスナカムラ　青戸店",
+        "AIT_SEISJ": "株式会社　ココスナカムラ"
+      },
+      {
+        "AIT_AITCD": "4553",
+        "AIT_MEISJ": "㈱ココスナカムラ　阿佐ヶ谷店",
+        "AIT_SEISJ": "株式会社　ココスナカムラ"
+      },
+      {
+        "AIT_AITCD": "4554",
+        "AIT_MEISJ": "㈱ココスナカムラ　セントラルキッチン",
+        "AIT_SEISJ": "株式会社　ココスナカムラ"
+      },
+      {
+        "AIT_AITCD": "4559",
+        "AIT_MEISJ": "丸善水産株式会社",
+        "AIT_SEISJ": "丸善水産  株式会社"
+      },
+      {
+        "AIT_AITCD": "4566",
+        "AIT_MEISJ": "三宅商店",
+        "AIT_SEISJ": "株式会社  三宅商店"
+      },
+      {
+        "AIT_AITCD": "4567",
+        "AIT_MEISJ": "パレスホテル東京",
+        "AIT_SEISJ": "株式会社パレスホテル"
+      },
+      {
+        "AIT_AITCD": "4568",
+        "AIT_MEISJ": "パレス慶応ファカルティ",
+        "AIT_SEISJ": "株式会社パレスホテル"
+      },
+      {
+        "AIT_AITCD": "4569",
+        "AIT_MEISJ": "パレス経団連会館",
+        "AIT_SEISJ": "株式会社パレスホテル"
+      },
+      {
+        "AIT_AITCD": "4570",
+        "AIT_MEISJ": "パレス霞山会館",
+        "AIT_SEISJ": "株式会社パレスホテル"
+      },
+      {
+        "AIT_AITCD": "4571",
+        "AIT_MEISJ": "和田倉噴水公園レストラン",
+        "AIT_SEISJ": "株式会社パレスホテル"
+      },
+      {
+        "AIT_AITCD": "4572",
+        "AIT_MEISJ": "パレス伊藤忠商事",
+        "AIT_SEISJ": "株式会社パレスホテル"
+      },
+      {
+        "AIT_AITCD": "4573",
+        "AIT_MEISJ": "パレス海運クラブ",
+        "AIT_SEISJ": "株式会社パレスホテル"
+      },
+      {
+        "AIT_AITCD": "4574",
+        "AIT_MEISJ": "パレス交詢社",
+        "AIT_SEISJ": "株式会社パレスホテル"
+      },
+      {
+        "AIT_AITCD": "4575",
+        "AIT_MEISJ": "レストランパティオ",
+        "AIT_SEISJ": "株式会社パレスホテル"
+      },
+      {
+        "AIT_AITCD": "4576",
+        "AIT_MEISJ": "パレス三井物産",
+        "AIT_SEISJ": "株式会社パレスホテル"
+      },
+      {
+        "AIT_AITCD": "4577",
+        "AIT_MEISJ": "浅草ビューホテル",
+        "AIT_SEISJ": "日本ビューホテル株式会社"
+      },
+      {
+        "AIT_AITCD": "4578",
+        "AIT_MEISJ": "松山  塩崎",
+        "AIT_SEISJ": "松山  塩崎"
+      },
+      {
+        "AIT_AITCD": "4579",
+        "AIT_MEISJ": "第一ホテル両国",
+        "AIT_SEISJ": "株式会社第一ホテル両国"
+      },
+      {
+        "AIT_AITCD": "4580",
+        "AIT_MEISJ": "ゲートホテル東京",
+        "AIT_SEISJ": "ヒューリックホテルマネジメント株式会社"
+      },
+      {
+        "AIT_AITCD": "4581",
+        "AIT_MEISJ": "ゲートホテル雷門",
+        "AIT_SEISJ": "ヒューリックホテルマネジメント株式会社"
+      },
+      {
+        "AIT_AITCD": "4582",
+        "AIT_MEISJ": "両国ビューホテル",
+        "AIT_SEISJ": "日本ビューホテル株式会社"
+      },
+      {
+        "AIT_AITCD": "4584",
+        "AIT_MEISJ": "大和水産  株式会社  朝霞",
+        "AIT_SEISJ": "大和水産  株式会社"
+      },
+      {
+        "AIT_AITCD": "4587",
+        "AIT_MEISJ": "＊＊＊天　国（和食）＊＊＊",
+        "AIT_SEISJ": "＊＊＊株式会社　銀座天国＊＊＊"
+      },
+      {
+        "AIT_AITCD": "4589",
+        "AIT_MEISJ": "有限会社  塩崎商店（松山市）",
+        "AIT_SEISJ": "有限会社  塩崎商店"
+      },
+      {
+        "AIT_AITCD": "4591",
+        "AIT_MEISJ": "東京大水",
+        "AIT_SEISJ": "東京大水"
+      },
+      {
+        "AIT_AITCD": "4594",
+        "AIT_MEISJ": "綱八  （浦和）",
+        "AIT_SEISJ": "株式会社綱八"
+      },
+      {
+        "AIT_AITCD": "4597",
+        "AIT_MEISJ": "＊＊＊西山水産＊＊＊",
+        "AIT_SEISJ": "西山水産"
+      },
+      {
+        "AIT_AITCD": "4600",
+        "AIT_MEISJ": "綱八  （駅ビル）",
+        "AIT_SEISJ": "エンタープライズ・ヒサクラ　株式会社"
+      },
+      {
+        "AIT_AITCD": "4601",
+        "AIT_MEISJ": "綱八  （西口）",
+        "AIT_SEISJ": "株式会社綱八"
+      },
+      {
+        "AIT_AITCD": "4602",
+        "AIT_MEISJ": "綱八　大丸ららぽーと横浜店",
+        "AIT_SEISJ": "株式会社綱八"
+      },
+      {
+        "AIT_AITCD": "4603",
+        "AIT_MEISJ": "綱八  （中野）",
+        "AIT_SEISJ": "株式会社綱八"
+      },
+      {
+        "AIT_AITCD": "4604",
+        "AIT_MEISJ": "綱八  （松屋）",
+        "AIT_SEISJ": "株式会社綱八"
+      },
+      {
+        "AIT_AITCD": "4605",
+        "AIT_MEISJ": "（株）綱  八（赤坂）",
+        "AIT_SEISJ": "エンタープライズ・ヒサクラ　株式会社"
+      },
+      {
+        "AIT_AITCD": "4606",
+        "AIT_MEISJ": "綱八  （野村）",
+        "AIT_SEISJ": "エンタープライズ・ヒサクラ　株式会社"
+      },
+      {
+        "AIT_AITCD": "4607",
+        "AIT_MEISJ": "つな八　荻窪店",
+        "AIT_SEISJ": "株式会社  つな八"
+      },
+      {
+        "AIT_AITCD": "4608",
+        "AIT_MEISJ": "株式会社  綱八（吉祥寺）",
+        "AIT_SEISJ": "エンタープライズ・ヒサクラ　株式会社"
+      },
+      {
+        "AIT_AITCD": "4609",
+        "AIT_MEISJ": "綱八  （柏店）",
+        "AIT_SEISJ": "株式会社綱八"
+      },
+      {
+        "AIT_AITCD": "4610",
+        "AIT_MEISJ": "綱八  （津田沼）",
+        "AIT_SEISJ": "エンタープライズ・ヒサクラ　株式会社"
+      },
+      {
+        "AIT_AITCD": "4611",
+        "AIT_MEISJ": "綱八  （仙台）",
+        "AIT_SEISJ": "株式会社綱八"
+      },
+      {
+        "AIT_AITCD": "4612",
+        "AIT_MEISJ": "綱八  （亀戸）",
+        "AIT_SEISJ": "株式会社綱八"
+      },
+      {
+        "AIT_AITCD": "4613",
+        "AIT_MEISJ": "綱八　浦和大丸デリカ店",
+        "AIT_SEISJ": "株式会社綱八"
+      },
+      {
+        "AIT_AITCD": "4615",
+        "AIT_MEISJ": "綱八　横浜ルミネ店",
+        "AIT_SEISJ": "株式会社綱八"
+      },
+      {
+        "AIT_AITCD": "4631",
+        "AIT_MEISJ": "魚  辰（９０）",
+        "AIT_SEISJ": "魚  辰        大武  勇"
+      },
+      {
+        "AIT_AITCD": "4641",
+        "AIT_MEISJ": "有限会社  田所水産",
+        "AIT_SEISJ": "有限会社  田所水産"
+      },
+      {
+        "AIT_AITCD": "4643",
+        "AIT_MEISJ": "魚わ",
+        "AIT_SEISJ": "魚わ"
+      },
+      {
+        "AIT_AITCD": "4647",
+        "AIT_MEISJ": "＊＊＊マツショウ水産＊＊＊",
+        "AIT_SEISJ": "マツショウ水産"
+      },
+      {
+        "AIT_AITCD": "4656",
+        "AIT_MEISJ": "＊＊＊武  井＊＊＊",
+        "AIT_SEISJ": "＊＊＊魚  清＊＊＊"
+      },
+      {
+        "AIT_AITCD": "4663",
+        "AIT_MEISJ": "綱八  （荻窪）",
+        "AIT_SEISJ": "株式会社綱八"
+      },
+      {
+        "AIT_AITCD": "4664",
+        "AIT_MEISJ": "＊＊＊綱八  （静岡）＊＊＊",
+        "AIT_SEISJ": "＊＊エンタープライズ・ヒサクラ　株式会社"
+      },
+      {
+        "AIT_AITCD": "4674",
+        "AIT_MEISJ": "＊＊＊ふぐ科理  稲垣＊＊＊",
+        "AIT_SEISJ": "＊＊＊ふぐ科理  稲垣＊＊＊"
+      },
+      {
+        "AIT_AITCD": "4676",
+        "AIT_MEISJ": "＊＊＊（株）スーパーアルプス＊＊＊",
+        "AIT_SEISJ": "＊＊＊株式会社  スーパーアルプス＊＊＊"
+      },
+      {
+        "AIT_AITCD": "4677",
+        "AIT_MEISJ": "株式会社  シノダ",
+        "AIT_SEISJ": "株式会社  シノダ"
+      },
+      {
+        "AIT_AITCD": "4681",
+        "AIT_MEISJ": "綱八  （高崎）",
+        "AIT_SEISJ": "株式会社綱八"
+      },
+      {
+        "AIT_AITCD": "4688",
+        "AIT_MEISJ": "綱八  （大宮店）",
+        "AIT_SEISJ": "株式会社綱八"
+      },
+      {
+        "AIT_AITCD": "4690",
+        "AIT_MEISJ": "魚  定",
+        "AIT_SEISJ": "魚  定"
+      },
+      {
+        "AIT_AITCD": "4693",
+        "AIT_MEISJ": "高  勢（外神田）",
+        "AIT_SEISJ": "高  勢（外神田）"
+      },
+      {
+        "AIT_AITCD": "4697",
+        "AIT_MEISJ": "株式会社  川崎太源",
+        "AIT_SEISJ": "株式会社  川崎太源"
+      },
+      {
+        "AIT_AITCD": "4698",
+        "AIT_MEISJ": "＊＊レストラン  マルセイユ",
+        "AIT_SEISJ": "レストラン  マルセイユ"
+      },
+      {
+        "AIT_AITCD": "4705",
+        "AIT_MEISJ": "フクシテン（蕨６３部）",
+        "AIT_SEISJ": "フクシテン（蕨６３部）"
+      },
+      {
+        "AIT_AITCD": "4710",
+        "AIT_MEISJ": "英鮨  北千住",
+        "AIT_SEISJ": "株式会社  共英"
+      },
+      {
+        "AIT_AITCD": "4716",
+        "AIT_MEISJ": "＊＊＊すい亭＊＊＊",
+        "AIT_SEISJ": "＊＊＊株式会社  すい亭＊＊＊"
+      },
+      {
+        "AIT_AITCD": "4720",
+        "AIT_MEISJ": "綱八  旬菜酒庵",
+        "AIT_SEISJ": "株式会社綱八"
+      },
+      {
+        "AIT_AITCD": "4721",
+        "AIT_MEISJ": "マルキ  東１",
+        "AIT_SEISJ": "マルキ  東１"
+      },
+      {
+        "AIT_AITCD": "4726",
+        "AIT_MEISJ": "㈱綱八（立川）",
+        "AIT_SEISJ": "株式会社綱八"
+      },
+      {
+        "AIT_AITCD": "4735",
+        "AIT_MEISJ": "横浜魚類株式会社　川崎北部支社",
+        "AIT_SEISJ": "横浜魚類株式会社　川崎北部支社"
+      },
+      {
+        "AIT_AITCD": "4741",
+        "AIT_MEISJ": "つな八　横浜",
+        "AIT_SEISJ": "株式会社  つな八"
+      },
+      {
+        "AIT_AITCD": "4744",
+        "AIT_MEISJ": "＊＊＊マルタニ食品＊＊＊",
+        "AIT_SEISJ": "マルタニ食品  株式会社"
+      },
+      {
+        "AIT_AITCD": "4748",
+        "AIT_MEISJ": "寿司義",
+        "AIT_SEISJ": "寿司義"
+      },
+      {
+        "AIT_AITCD": "4750",
+        "AIT_MEISJ": "＊＊＊アジキュウ＊＊＊",
+        "AIT_SEISJ": "＊＊＊味    久＊＊＊"
+      },
+      {
+        "AIT_AITCD": "4752",
+        "AIT_MEISJ": "源氏本店",
+        "AIT_SEISJ": "有限会社  紫苑"
+      },
+      {
+        "AIT_AITCD": "4763",
+        "AIT_MEISJ": "英寿司",
+        "AIT_SEISJ": "英寿司"
+      },
+      {
+        "AIT_AITCD": "4769",
+        "AIT_MEISJ": "㈱  赤坂飯店（パレス）",
+        "AIT_SEISJ": "株式会社  赤坂飯店（パレス）"
+      },
+      {
+        "AIT_AITCD": "4779",
+        "AIT_MEISJ": "＊＊＊弁天寿し＊＊＊",
+        "AIT_SEISJ": "＊＊＊弁天寿し＊＊＊"
+      },
+      {
+        "AIT_AITCD": "4787",
+        "AIT_MEISJ": "花いずみ",
+        "AIT_SEISJ": "花いずみ"
+      },
+      {
+        "AIT_AITCD": "4792",
+        "AIT_MEISJ": "（株）オーシャンフーヅ",
+        "AIT_SEISJ": "株式会社  オーシャンフーヅ"
+      },
+      {
+        "AIT_AITCD": "4793",
+        "AIT_MEISJ": "＊＊株式会社  樋口物産＊＊",
+        "AIT_SEISJ": "株式会社  樋口物産"
+      },
+      {
+        "AIT_AITCD": "4795",
+        "AIT_MEISJ": "東京調理（株）",
+        "AIT_SEISJ": "東京調理株式会社"
+      },
+      {
+        "AIT_AITCD": "4800",
+        "AIT_MEISJ": "橋本水産",
+        "AIT_SEISJ": "橋本水産"
+      },
+      {
+        "AIT_AITCD": "4801",
+        "AIT_MEISJ": "＊＊橋本水産＊＊",
+        "AIT_SEISJ": "＊＊橋本水産＊＊"
+      },
+      {
+        "AIT_AITCD": "4806",
+        "AIT_MEISJ": "綱八  土浦",
+        "AIT_SEISJ": "エンタープライズ・ヒサクラ　株式会社"
+      },
+      {
+        "AIT_AITCD": "4811",
+        "AIT_MEISJ": "綱八  （浅草）",
+        "AIT_SEISJ": "株式会社綱八"
+      },
+      {
+        "AIT_AITCD": "4812",
+        "AIT_MEISJ": "㈱  綱八  （大丸）",
+        "AIT_SEISJ": "株式会社綱八"
+      },
+      {
+        "AIT_AITCD": "4815",
+        "AIT_MEISJ": "＊＊＊サトーミート＊＊＊",
+        "AIT_SEISJ": "＊＊＊サトーミート＊＊＊"
+      },
+      {
+        "AIT_AITCD": "4820",
+        "AIT_MEISJ": "つな八　品川",
+        "AIT_SEISJ": "株式会社  つな八"
+      },
+      {
+        "AIT_AITCD": "4822",
+        "AIT_MEISJ": "＊＊＊新魚水産＊＊＊",
+        "AIT_SEISJ": "新魚水産"
+      },
+      {
+        "AIT_AITCD": "4829",
+        "AIT_MEISJ": "伊藤  山田",
+        "AIT_SEISJ": "伊藤  山田"
+      },
+      {
+        "AIT_AITCD": "4838",
+        "AIT_MEISJ": "110部ヒロセ",
+        "AIT_SEISJ": "株式会社  共英"
+      },
+      {
+        "AIT_AITCD": "4839",
+        "AIT_MEISJ": "つな八　六本木",
+        "AIT_SEISJ": "株式会社  つな八"
+      },
+      {
+        "AIT_AITCD": "4852",
+        "AIT_MEISJ": "つな八　風来坊",
+        "AIT_SEISJ": "株式会社  つな八"
+      },
+      {
+        "AIT_AITCD": "4853",
+        "AIT_MEISJ": "㈱  綱八  松戸",
+        "AIT_SEISJ": "株式会社綱八"
+      },
+      {
+        "AIT_AITCD": "4858",
+        "AIT_MEISJ": "＊＊＊三龍亭＊＊＊",
+        "AIT_SEISJ": "＊＊＊有限会社  三龍亭＊＊＊"
+      },
+      {
+        "AIT_AITCD": "4864",
+        "AIT_MEISJ": "赤坂飯店  軽井沢",
+        "AIT_SEISJ": "華昌有限会社"
+      },
+      {
+        "AIT_AITCD": "4867",
+        "AIT_MEISJ": "海老明",
+        "AIT_SEISJ": "海老明"
+      },
+      {
+        "AIT_AITCD": "4873",
+        "AIT_MEISJ": "株式会社  佃林",
+        "AIT_SEISJ": "株式会社  佃林"
+      },
+      {
+        "AIT_AITCD": "4875",
+        "AIT_MEISJ": "今通商  株式会社",
+        "AIT_SEISJ": "今通商  株式会社"
+      },
+      {
+        "AIT_AITCD": "4876",
+        "AIT_MEISJ": "＊＊＊（銀座）ざくろ＊＊＊",
+        "AIT_SEISJ": "＊＊＊（銀座）ざくろ＊＊＊"
+      },
+      {
+        "AIT_AITCD": "4881",
+        "AIT_MEISJ": "和田商店",
+        "AIT_SEISJ": "和田商店"
+      },
+      {
+        "AIT_AITCD": "4882",
+        "AIT_MEISJ": "魚がし鮨  中野南口店",
+        "AIT_SEISJ": "株式会社  共英"
+      },
+      {
+        "AIT_AITCD": "4883",
+        "AIT_MEISJ": "浜清",
+        "AIT_SEISJ": "浜清"
+      },
+      {
+        "AIT_AITCD": "4884",
+        "AIT_MEISJ": "宇迺丸",
+        "AIT_SEISJ": "宇迺丸"
+      },
+      {
+        "AIT_AITCD": "4886",
+        "AIT_MEISJ": "天辻",
+        "AIT_SEISJ": "天辻"
+      },
+      {
+        "AIT_AITCD": "4887",
+        "AIT_MEISJ": "＊＊＊海宝＊＊＊",
+        "AIT_SEISJ": "海  宝"
+      },
+      {
+        "AIT_AITCD": "4888",
+        "AIT_MEISJ": "亀井ずし別館",
+        "AIT_SEISJ": "亀井ずし"
+      },
+      {
+        "AIT_AITCD": "4890",
+        "AIT_MEISJ": "夢や",
+        "AIT_SEISJ": "夢や"
+      },
+      {
+        "AIT_AITCD": "4894",
+        "AIT_MEISJ": "関東コモリ",
+        "AIT_SEISJ": "株式会社  関東コモリ"
+      },
+      {
+        "AIT_AITCD": "4895",
+        "AIT_MEISJ": "＊＊海老の大丸＊＊",
+        "AIT_SEISJ": "＊＊株式会社  海老の大丸＊＊"
+      },
+      {
+        "AIT_AITCD": "4896",
+        "AIT_MEISJ": "神高（横浜）",
+        "AIT_SEISJ": "神高（横浜）"
+      },
+      {
+        "AIT_AITCD": "4897",
+        "AIT_MEISJ": "三洋食品（株）",
+        "AIT_SEISJ": "三洋食品株式会社"
+      },
+      {
+        "AIT_AITCD": "4898",
+        "AIT_MEISJ": "（株）富士",
+        "AIT_SEISJ": "有限会社  富士"
+      },
+      {
+        "AIT_AITCD": "4901",
+        "AIT_MEISJ": "（有）新橋  かにや",
+        "AIT_SEISJ": "有限会社  新橋  かにや"
+      },
+      {
+        "AIT_AITCD": "4902",
+        "AIT_MEISJ": "＊＊＊中島水産  ㈱＊＊＊",
+        "AIT_SEISJ": "＊＊＊中島水産  株式会社＊＊＊"
+      },
+      {
+        "AIT_AITCD": "4903",
+        "AIT_MEISJ": "＊＊＊小川食品  ㈱＊＊＊",
+        "AIT_SEISJ": "＊＊＊小川食品  株式会社＊＊＊"
+      },
+      {
+        "AIT_AITCD": "4904",
+        "AIT_MEISJ": "＊＊＊㈱  藤冷＊＊＊",
+        "AIT_SEISJ": "＊＊＊株式会社  藤冷＊＊＊"
+      },
+      {
+        "AIT_AITCD": "4905",
+        "AIT_MEISJ": "㈲丸幸桑田商店",
+        "AIT_SEISJ": "㈲丸幸桑田商店"
+      },
+      {
+        "AIT_AITCD": "4906",
+        "AIT_MEISJ": "フタバ商事",
+        "AIT_SEISJ": "株式会社  フタバ商事"
+      },
+      {
+        "AIT_AITCD": "4911",
+        "AIT_MEISJ": "オガワ冷食  ㈱",
+        "AIT_SEISJ": "オガワ冷食  株式会社"
+      },
+      {
+        "AIT_AITCD": "4913",
+        "AIT_MEISJ": "弥助  中野店",
+        "AIT_SEISJ": "株式会社  共英"
+      },
+      {
+        "AIT_AITCD": "4915",
+        "AIT_MEISJ": "ダイシン商事  ㈱",
+        "AIT_SEISJ": "ダイシン商事  株式会社"
+      },
+      {
+        "AIT_AITCD": "4918",
+        "AIT_MEISJ": "＊＊＊㈱  亀和商店＊＊＊",
+        "AIT_SEISJ": "＊＊＊株式会社  亀和商店＊＊＊"
+      },
+      {
+        "AIT_AITCD": "4919",
+        "AIT_MEISJ": "東４（かにや）",
+        "AIT_SEISJ": "ニューかに家"
+      },
+      {
+        "AIT_AITCD": "4920",
+        "AIT_MEISJ": "にっぱん水産",
+        "AIT_SEISJ": "にっぱん水産株式会社"
+      },
+      {
+        "AIT_AITCD": "4921",
+        "AIT_MEISJ": "＊＊＊新井商店＊＊＊",
+        "AIT_SEISJ": "＊＊＊有限会社  新井商店＊＊＊"
+      },
+      {
+        "AIT_AITCD": "4923",
+        "AIT_MEISJ": "弥助  川崎東口店",
+        "AIT_SEISJ": "株式会社  共英"
+      },
+      {
+        "AIT_AITCD": "4925",
+        "AIT_MEISJ": "＊＊＊割烹  はるきち＊＊＊",
+        "AIT_SEISJ": "＊＊＊割烹  はるきち＊＊＊"
+      },
+      {
+        "AIT_AITCD": "4927",
+        "AIT_MEISJ": "㈱  八洲",
+        "AIT_SEISJ": "株式会社  八洲"
+      },
+      {
+        "AIT_AITCD": "4928",
+        "AIT_MEISJ": "大漁寿司",
+        "AIT_SEISJ": "大漁寿司"
+      },
+      {
+        "AIT_AITCD": "4929",
+        "AIT_MEISJ": "㈲  味嬉エンタープライズ",
+        "AIT_SEISJ": "有限会社  味嬉エンタープライズ"
+      },
+      {
+        "AIT_AITCD": "4930",
+        "AIT_MEISJ": "弥助  川崎駅西口店",
+        "AIT_SEISJ": "株式会社  共英"
+      },
+      {
+        "AIT_AITCD": "4932",
+        "AIT_MEISJ": "＊＊＊㈱ショクリュー 湘南営業所＊＊＊",
+        "AIT_SEISJ": "＊＊＊株式会社ショクリュー  湘南営業所＊"
+      },
+      {
+        "AIT_AITCD": "4933",
+        "AIT_MEISJ": "＊＊＊刀田食品  株式会社＊＊＊",
+        "AIT_SEISJ": "＊＊＊刀田食品  株式会社＊＊＊"
+      },
+      {
+        "AIT_AITCD": "4934",
+        "AIT_MEISJ": "㈱綱八池袋店",
+        "AIT_SEISJ": "株式会社綱八"
+      },
+      {
+        "AIT_AITCD": "4935",
+        "AIT_MEISJ": "㈱  綱八  角筈店",
+        "AIT_SEISJ": "株式会社綱八"
+      },
+      {
+        "AIT_AITCD": "4940",
+        "AIT_MEISJ": "㈱ショクリュー 三多摩",
+        "AIT_SEISJ": "株式会社ショクリュー  三多摩"
+      },
+      {
+        "AIT_AITCD": "4942",
+        "AIT_MEISJ": "弥助  田町店",
+        "AIT_SEISJ": "株式会社  共英"
+      },
+      {
+        "AIT_AITCD": "4943",
+        "AIT_MEISJ": "＊＊＊㈱ショクリュー 板橋営業所＊＊＊",
+        "AIT_SEISJ": "＊＊＊株式会社ショクリュー  板橋営業所＊"
+      },
+      {
+        "AIT_AITCD": "4946",
+        "AIT_MEISJ": "はなむら",
+        "AIT_SEISJ": "はなむら"
+      },
+      {
+        "AIT_AITCD": "4947",
+        "AIT_MEISJ": "＊＊＊梁世＊＊＊",
+        "AIT_SEISJ": "＊＊＊梁世＊＊＊"
+      },
+      {
+        "AIT_AITCD": "4948",
+        "AIT_MEISJ": "＊＊＊もゝ瀬＊＊＊",
+        "AIT_SEISJ": "＊＊＊もゝ瀬＊＊＊"
+      },
+      {
+        "AIT_AITCD": "4949",
+        "AIT_MEISJ": "㈲  大六",
+        "AIT_SEISJ": "有限会社  大六"
+      },
+      {
+        "AIT_AITCD": "4950",
+        "AIT_MEISJ": "＊＊＊ヤマセ商会＊＊＊",
+        "AIT_SEISJ": "＊＊＊ヤマセ商会＊＊＊"
+      },
+      {
+        "AIT_AITCD": "4952",
+        "AIT_MEISJ": "＊＊＊㈱Ｂ＆Ｔマリンプロダクツカンパニー",
+        "AIT_SEISJ": "株式会社Ｂ＆Ｔマリンプロダクツカンパニー"
+      },
+      {
+        "AIT_AITCD": "4953",
+        "AIT_MEISJ": "綱八  オペラシティ",
+        "AIT_SEISJ": "株式会社綱八"
+      },
+      {
+        "AIT_AITCD": "4954",
+        "AIT_MEISJ": "つな八  銀座店",
+        "AIT_SEISJ": "株式会社  つな八"
+      },
+      {
+        "AIT_AITCD": "4955",
+        "AIT_MEISJ": "＊＊＊魚幸水産＊＊＊",
+        "AIT_SEISJ": "＊＊＊魚幸水産＊＊＊"
+      },
+      {
+        "AIT_AITCD": "4956",
+        "AIT_MEISJ": "立岡",
+        "AIT_SEISJ": "株式会社  立岡"
+      },
+      {
+        "AIT_AITCD": "4957",
+        "AIT_MEISJ": "つな八　上大岡",
+        "AIT_SEISJ": "株式会社  つな八"
+      },
+      {
+        "AIT_AITCD": "4958",
+        "AIT_MEISJ": "（有）ムカイ",
+        "AIT_SEISJ": "有限会社  ムカイ"
+      },
+      {
+        "AIT_AITCD": "4959",
+        "AIT_MEISJ": "＊＊＊（有）丸敬商店＊＊＊",
+        "AIT_SEISJ": "＊＊＊有限会社  丸敬商店＊＊＊"
+      },
+      {
+        "AIT_AITCD": "4960",
+        "AIT_MEISJ": "魚がし鮨　江古田",
+        "AIT_SEISJ": "株式会社  共英"
+      },
+      {
+        "AIT_AITCD": "4961",
+        "AIT_MEISJ": "＊＊両国アクアハウス  江戸遊＊＊",
+        "AIT_SEISJ": "＊＊有限会社  東新アクア＊＊"
+      },
+      {
+        "AIT_AITCD": "4962",
+        "AIT_MEISJ": "大都魚類㈱大田支社",
+        "AIT_SEISJ": "大都魚類  株式会社"
+      },
+      {
+        "AIT_AITCD": "4963",
+        "AIT_MEISJ": "えび荷受",
+        "AIT_SEISJ": "株式会社  えび荷受"
+      },
+      {
+        "AIT_AITCD": "4964",
+        "AIT_MEISJ": "＊＊＊㈱春陽堂＊＊＊",
+        "AIT_SEISJ": "＊＊＊株式会社  春陽堂＊＊＊"
+      },
+      {
+        "AIT_AITCD": "4965",
+        "AIT_MEISJ": "＊＊海老の大丸＊＊",
+        "AIT_SEISJ": "＊＊株式会社  海老の大丸＊＊"
+      },
+      {
+        "AIT_AITCD": "4966",
+        "AIT_MEISJ": "綱八（溝口店）",
+        "AIT_SEISJ": "株式会社綱八"
+      },
+      {
+        "AIT_AITCD": "4967",
+        "AIT_MEISJ": "綱八  溝口デリカ店",
+        "AIT_SEISJ": "株式会社綱八"
+      },
+      {
+        "AIT_AITCD": "4968",
+        "AIT_MEISJ": "東京大田魚市場（株）",
+        "AIT_SEISJ": "東京大田魚市場  株式会社"
+      },
+      {
+        "AIT_AITCD": "4969",
+        "AIT_MEISJ": "㈲海老徳",
+        "AIT_SEISJ": "有限会社海老徳"
+      },
+      {
+        "AIT_AITCD": "4970",
+        "AIT_MEISJ": "＊＊＊㈱ハッピ－ワ－ルド＊＊＊",
+        "AIT_SEISJ": "＊＊＊株式会社  ハッピ－ワ－ルド＊＊＊"
+      },
+      {
+        "AIT_AITCD": "4971",
+        "AIT_MEISJ": "＊＊＊㈱さんれいフ－ズ＊＊＊",
+        "AIT_SEISJ": "＊＊＊株式会社さんれいフ－ズ＊＊＊"
+      },
+      {
+        "AIT_AITCD": "4972",
+        "AIT_MEISJ": "＊＊＊浅田水産＊＊＊",
+        "AIT_SEISJ": "＊＊＊株式会社  浅田水産＊＊＊"
+      },
+      {
+        "AIT_AITCD": "4973",
+        "AIT_MEISJ": "＊＊＊㈱丸八  東京＊＊＊",
+        "AIT_SEISJ": "＊＊＊株式会社  丸八＊＊＊"
+      },
+      {
+        "AIT_AITCD": "4974",
+        "AIT_MEISJ": "＊＊＊天ぷら  つじ村＊＊＊",
+        "AIT_SEISJ": "＊＊＊天ぷら  つじ村＊＊＊"
+      },
+      {
+        "AIT_AITCD": "4975",
+        "AIT_MEISJ": "＊＊＊ふくるる＊＊＊",
+        "AIT_SEISJ": "＊＊ふくるる＊＊＊"
+      },
+      {
+        "AIT_AITCD": "4976",
+        "AIT_MEISJ": "＊＊＊四谷  マルジュウ＊＊＊",
+        "AIT_SEISJ": "＊＊＊四谷  マルジュウ＊＊＊"
+      },
+      {
+        "AIT_AITCD": "4977",
+        "AIT_MEISJ": "＊＊＊旭寿司＊＊＊",
+        "AIT_SEISJ": "＊＊＊旭寿司＊＊＊"
+      },
+      {
+        "AIT_AITCD": "4978",
+        "AIT_MEISJ": "浜伸",
+        "AIT_SEISJ": "株式会社  浜伸物産"
+      },
+      {
+        "AIT_AITCD": "4979",
+        "AIT_MEISJ": "浜伸  池袋店",
+        "AIT_SEISJ": "株式会社  浜伸物産"
+      },
+      {
+        "AIT_AITCD": "4980",
+        "AIT_MEISJ": "浜伸  石和店",
+        "AIT_SEISJ": "株式会社  浜伸物産"
+      },
+      {
+        "AIT_AITCD": "4981",
+        "AIT_MEISJ": "がぶり甲府店",
+        "AIT_SEISJ": "株式会社エムフーズプランニング"
+      },
+      {
+        "AIT_AITCD": "4982",
+        "AIT_MEISJ": "＊＊＊ダイマル鮮魚＊＊＊",
+        "AIT_SEISJ": "＊＊＊ダイマル鮮魚＊＊＊"
+      },
+      {
+        "AIT_AITCD": "4983",
+        "AIT_MEISJ": "魚河岸寿司  池袋店",
+        "AIT_SEISJ": "大登工業株式会社"
+      },
+      {
+        "AIT_AITCD": "4984",
+        "AIT_MEISJ": "＊＊＊タパスとタパス  銀座並木通店＊＊＊",
+        "AIT_SEISJ": "＊＊＊㈱ジャパンフードシステムズ＊＊＊"
+      },
+      {
+        "AIT_AITCD": "4985",
+        "AIT_MEISJ": "豊ちゃん",
+        "AIT_SEISJ": "豊ちゃん"
+      },
+      {
+        "AIT_AITCD": "4986",
+        "AIT_MEISJ": "つな八  港北店",
+        "AIT_SEISJ": "株式会社  つな八"
+      },
+      {
+        "AIT_AITCD": "4987",
+        "AIT_MEISJ": "（株）スギノキヤ",
+        "AIT_SEISJ": "株式会社  スギノキヤ"
+      },
+      {
+        "AIT_AITCD": "4988",
+        "AIT_MEISJ": "鎌倉田口水産",
+        "AIT_SEISJ": "鎌倉田口水産"
+      },
+      {
+        "AIT_AITCD": "4989",
+        "AIT_MEISJ": "つな八  銀座コア店",
+        "AIT_SEISJ": "株式会社  つな八"
+      },
+      {
+        "AIT_AITCD": "4990",
+        "AIT_MEISJ": "綱八  京王デリカ店",
+        "AIT_SEISJ": "株式会社綱八"
+      },
+      {
+        "AIT_AITCD": "4991",
+        "AIT_MEISJ": "（株）アキヒロ",
+        "AIT_SEISJ": "株式会社  アキヒロ"
+      },
+      {
+        "AIT_AITCD": "4992",
+        "AIT_MEISJ": "＊＊＊日本海・海の家・たらこ＊＊＊",
+        "AIT_SEISJ": "＊＊＊ヌードルジャパン  株式会社＊＊＊"
+      },
+      {
+        "AIT_AITCD": "4993",
+        "AIT_MEISJ": "＊＊＊すし暦  旭店＊＊＊",
+        "AIT_SEISJ": "＊＊＊有限会社  大和住商＊＊＊"
+      },
+      {
+        "AIT_AITCD": "4994",
+        "AIT_MEISJ": "つな八  インターシティ店",
+        "AIT_SEISJ": "株式会社  つな八"
+      },
+      {
+        "AIT_AITCD": "4995",
+        "AIT_MEISJ": "＊＊＊ポロモード＊＊＊",
+        "AIT_SEISJ": "＊＊＊ポロモード＊＊＊"
+      },
+      {
+        "AIT_AITCD": "4996",
+        "AIT_MEISJ": "美鶴",
+        "AIT_SEISJ": "美鶴"
+      },
+      {
+        "AIT_AITCD": "4997",
+        "AIT_MEISJ": "＊＊＊てん亭＊＊＊",
+        "AIT_SEISJ": "＊＊＊てん亭＊＊＊"
+      },
+      {
+        "AIT_AITCD": "4998",
+        "AIT_MEISJ": "料亭  大松",
+        "AIT_SEISJ": "料亭  大松"
+      },
+      {
+        "AIT_AITCD": "4999",
+        "AIT_MEISJ": "＊＊＊ル・ムートン・ブラウン＊＊＊",
+        "AIT_SEISJ": "＊＊＊ル・ムートン・ブラウン＊＊＊"
+      },
+      {
+        "AIT_AITCD": "5000",
+        "AIT_MEISJ": "新宿綱八  平塚デリカ",
+        "AIT_SEISJ": "株式会社綱八"
+      },
+      {
+        "AIT_AITCD": "5001",
+        "AIT_MEISJ": "＊＊＊魚がし鮨  中目黒＊＊＊",
+        "AIT_SEISJ": "＊＊＊株式会社  共英＊＊＊"
+      },
+      {
+        "AIT_AITCD": "5002",
+        "AIT_MEISJ": "丸長大同  株式会社",
+        "AIT_SEISJ": "丸長大同  株式会社"
+      },
+      {
+        "AIT_AITCD": "5003",
+        "AIT_MEISJ": "綱八  新浦安デリカ",
+        "AIT_SEISJ": "エンタープライズ・ヒサクラ　株式会社"
+      },
+      {
+        "AIT_AITCD": "5004",
+        "AIT_MEISJ": "丸家寿",
+        "AIT_SEISJ": "丸家寿"
+      },
+      {
+        "AIT_AITCD": "5005",
+        "AIT_MEISJ": "英鮨  御徒町",
+        "AIT_SEISJ": "株式会社  共英"
+      },
+      {
+        "AIT_AITCD": "5006",
+        "AIT_MEISJ": "魚がし鮨  中野北口店",
+        "AIT_SEISJ": "株式会社  共英"
+      },
+      {
+        "AIT_AITCD": "5007",
+        "AIT_MEISJ": "タパス＆タパス  銀座２丁目店",
+        "AIT_SEISJ": "株式会社  ジャパンフードシステムズ"
+      },
+      {
+        "AIT_AITCD": "5008",
+        "AIT_MEISJ": "天國晴海店",
+        "AIT_SEISJ": "銀座天國"
+      },
+      {
+        "AIT_AITCD": "5009",
+        "AIT_MEISJ": "魚安商店",
+        "AIT_SEISJ": "有限会社  魚安商店"
+      },
+      {
+        "AIT_AITCD": "5010",
+        "AIT_MEISJ": "松崎食品",
+        "AIT_SEISJ": "松崎食品  株式会社"
+      },
+      {
+        "AIT_AITCD": "5011",
+        "AIT_MEISJ": "魚きん",
+        "AIT_SEISJ": "株式会社魚きん"
+      },
+      {
+        "AIT_AITCD": "5012",
+        "AIT_MEISJ": "北将",
+        "AIT_SEISJ": "北将"
+      },
+      {
+        "AIT_AITCD": "5013",
+        "AIT_MEISJ": "＊＊＊ｓｕｎ－ｍｉ＊＊＊",
+        "AIT_SEISJ": "＊＊＊サンミ株式会社＊＊＊"
+      },
+      {
+        "AIT_AITCD": "5014",
+        "AIT_MEISJ": "＊＊＊虎の門  パストラル＊＊＊",
+        "AIT_SEISJ": "＊＊＊株式会社  パストラル＊＊＊"
+      },
+      {
+        "AIT_AITCD": "5015",
+        "AIT_MEISJ": "＊＊＊焼鳥金太郎  新橋銀座口店＊＊＊",
+        "AIT_SEISJ": "＊＊＊株式会社  三力＊＊＊"
+      },
+      {
+        "AIT_AITCD": "5016",
+        "AIT_MEISJ": "つな八  藤沢店",
+        "AIT_SEISJ": "株式会社  つな八"
+      },
+      {
+        "AIT_AITCD": "5017",
+        "AIT_MEISJ": "＊＊＊魚がし鮨  本部＊＊＊",
+        "AIT_SEISJ": "＊＊＊株式会社  共英＊＊＊"
+      },
+      {
+        "AIT_AITCD": "5018",
+        "AIT_MEISJ": "つな八  吉祥寺店",
+        "AIT_SEISJ": "株式会社  つな八"
+      },
+      {
+        "AIT_AITCD": "5019",
+        "AIT_MEISJ": "オブロング",
+        "AIT_SEISJ": "株式会社  バルニバービ"
+      },
+      {
+        "AIT_AITCD": "5020",
+        "AIT_MEISJ": "安曇野",
+        "AIT_SEISJ": "株式会社  ウインベック"
+      },
+      {
+        "AIT_AITCD": "5021",
+        "AIT_MEISJ": "＊＊＊八芳園＊＊＊",
+        "AIT_SEISJ": "＊＊＊株式会社  八芳園＊＊＊"
+      },
+      {
+        "AIT_AITCD": "5022",
+        "AIT_MEISJ": "＊＊＊東京晴海海員会館＊＊＊",
+        "AIT_SEISJ": "＊＊＊財団法人  東京船員厚生協会＊＊＊"
+      },
+      {
+        "AIT_AITCD": "5023",
+        "AIT_MEISJ": "＊＊＊ＦＵＪＩＭＡＭＡＳ＊＊＊",
+        "AIT_SEISJ": "＊＊＊株式会社  トライスター＊＊＊"
+      },
+      {
+        "AIT_AITCD": "5024",
+        "AIT_MEISJ": "＊＊＊天一  吉祥寺店＊＊＊",
+        "AIT_SEISJ": "＊＊＊株式会社  天一食品＊＊＊"
+      },
+      {
+        "AIT_AITCD": "5025",
+        "AIT_MEISJ": "＊＊＊菩提樹  売店玉川＊＊＊",
+        "AIT_SEISJ": "＊＊＊株式会社  かつ吉＊＊＊"
+      },
+      {
+        "AIT_AITCD": "5026",
+        "AIT_MEISJ": "＊＊＊菩提樹  玉川高島屋＊＊＊",
+        "AIT_SEISJ": "＊＊＊株式会社  かつ吉＊＊＊"
+      },
+      {
+        "AIT_AITCD": "5027",
+        "AIT_MEISJ": "＊＊＊かつ吉  玉川高島屋＊＊＊",
+        "AIT_SEISJ": "＊＊＊株式会社  かつ吉＊＊＊"
+      },
+      {
+        "AIT_AITCD": "5028",
+        "AIT_MEISJ": "＊＊＊天真佐＊＊＊",
+        "AIT_SEISJ": "＊＊＊天真佐＊＊＊"
+      },
+      {
+        "AIT_AITCD": "5029",
+        "AIT_MEISJ": "＊＊＊スーツアンレストラン陳＊＊＊",
+        "AIT_SEISJ": "＊＊＊株式会社  エス・アール・チン＊＊＊"
+      },
+      {
+        "AIT_AITCD": "5030",
+        "AIT_MEISJ": "かつ吉  日本橋店",
+        "AIT_SEISJ": "株式会社  かつ吉"
+      },
+      {
+        "AIT_AITCD": "5031",
+        "AIT_MEISJ": "＊＊＊中村屋本館五階レザミ＊＊＊",
+        "AIT_SEISJ": "＊＊＊株式会社  中村屋＊＊＊"
+      },
+      {
+        "AIT_AITCD": "5032",
+        "AIT_MEISJ": "三定　揚場",
+        "AIT_SEISJ": "有限会社　雷門三定"
+      },
+      {
+        "AIT_AITCD": "5033",
+        "AIT_MEISJ": "摩天楼大飯店",
+        "AIT_SEISJ": "東京観光  株式会社"
+      },
+      {
+        "AIT_AITCD": "5034",
+        "AIT_MEISJ": "一頭や",
+        "AIT_SEISJ": "株式会社平城苑"
+      },
+      {
+        "AIT_AITCD": "5035",
+        "AIT_MEISJ": "九段会館",
+        "AIT_SEISJ": "株式会社  丸の内ホテル"
+      },
+      {
+        "AIT_AITCD": "5036",
+        "AIT_MEISJ": "＊＊＊新宿  天はな＊＊＊",
+        "AIT_SEISJ": "＊＊＊株式会社  グルメ杵屋＊＊＊"
+      },
+      {
+        "AIT_AITCD": "5037",
+        "AIT_MEISJ": "＊＊＊寿司の美登利  センター＊＊＊",
+        "AIT_SEISJ": "＊＊＊（株）梅丘寿司の美登利総本店＊＊＊"
+      },
+      {
+        "AIT_AITCD": "5038",
+        "AIT_MEISJ": "たづむら",
+        "AIT_SEISJ": "株式会社  レストランピーコック"
+      },
+      {
+        "AIT_AITCD": "5039",
+        "AIT_MEISJ": "平城苑  銀座二丁目店",
+        "AIT_SEISJ": "株式会社  平城苑"
+      },
+      {
+        "AIT_AITCD": "5040",
+        "AIT_MEISJ": "＊＊＊平城苑  浅草雷門店＊＊＊",
+        "AIT_SEISJ": "＊＊＊株式会社  平城苑＊＊＊"
+      },
+      {
+        "AIT_AITCD": "5041",
+        "AIT_MEISJ": "＊＊＊天国  横浜そごう店＊＊＊",
+        "AIT_SEISJ": "＊＊＊株式会社  銀座天国＊＊＊"
+      },
+      {
+        "AIT_AITCD": "5042",
+        "AIT_MEISJ": "広瀬屋",
+        "AIT_SEISJ": "広瀬屋"
+      },
+      {
+        "AIT_AITCD": "5043",
+        "AIT_MEISJ": "郷土料理  萩",
+        "AIT_SEISJ": "郷土料理  萩"
+      },
+      {
+        "AIT_AITCD": "5044",
+        "AIT_MEISJ": "＊＊＊廻し寿司  活＊＊＊",
+        "AIT_SEISJ": "＊＊＊株式会社　梅丘寿司の美登利総本店＊"
+      },
+      {
+        "AIT_AITCD": "5045",
+        "AIT_MEISJ": "両国アクアハウス江戸遊",
+        "AIT_SEISJ": "株式会社  東新アクア"
+      },
+      {
+        "AIT_AITCD": "5046",
+        "AIT_MEISJ": "株式会社  光洋水産",
+        "AIT_SEISJ": "株式会社  光洋水産"
+      },
+      {
+        "AIT_AITCD": "5047",
+        "AIT_MEISJ": "株式会社　ココスナカムラ",
+        "AIT_SEISJ": "株式会社　ココスナカムラ"
+      },
+      {
+        "AIT_AITCD": "5048",
+        "AIT_MEISJ": "伊勢海老料理るせっと　日比谷店",
+        "AIT_SEISJ": "株式会社　ディ・ティ・ネクスト"
+      },
+      {
+        "AIT_AITCD": "5050",
+        "AIT_MEISJ": "出川水産㈱",
+        "AIT_SEISJ": "出川水産株式会社"
+      },
+      {
+        "AIT_AITCD": "5051",
+        "AIT_MEISJ": "株式会社極東食材",
+        "AIT_SEISJ": "株式会社極東食材"
+      },
+      {
+        "AIT_AITCD": "5052",
+        "AIT_MEISJ": "武藤商事",
+        "AIT_SEISJ": "株式会社  武藤商事"
+      },
+      {
+        "AIT_AITCD": "5053",
+        "AIT_MEISJ": "株式会社　紙安  東京",
+        "AIT_SEISJ": "株式会社  紙安"
+      },
+      {
+        "AIT_AITCD": "5054",
+        "AIT_MEISJ": "東海",
+        "AIT_SEISJ": "東海"
+      },
+      {
+        "AIT_AITCD": "5055",
+        "AIT_MEISJ": "三　駒",
+        "AIT_SEISJ": "株式会社  三駒"
+      },
+      {
+        "AIT_AITCD": "5056",
+        "AIT_MEISJ": "ケイ低温フーズ株式会社",
+        "AIT_SEISJ": "ケイ低温フーズ株式会社"
+      },
+      {
+        "AIT_AITCD": "5057",
+        "AIT_MEISJ": "トーヨー食材",
+        "AIT_SEISJ": "株式会社　トーヨー食材"
+      },
+      {
+        "AIT_AITCD": "5058",
+        "AIT_MEISJ": "グリーン・ファーム",
+        "AIT_SEISJ": "グリーン・ファーム"
+      },
+      {
+        "AIT_AITCD": "5059",
+        "AIT_MEISJ": "ア・テッパラ",
+        "AIT_SEISJ": "ア・テッパラ"
+      },
+      {
+        "AIT_AITCD": "5060",
+        "AIT_MEISJ": "活鮮　吉富",
+        "AIT_SEISJ": "（有）活鮮吉富"
+      },
+      {
+        "AIT_AITCD": "5061",
+        "AIT_MEISJ": "田むら",
+        "AIT_SEISJ": "田むら"
+      },
+      {
+        "AIT_AITCD": "5062",
+        "AIT_MEISJ": "有限会社　河萬",
+        "AIT_SEISJ": "有限会社　河萬"
+      },
+      {
+        "AIT_AITCD": "5063",
+        "AIT_MEISJ": "株式会社　高崎屋商店",
+        "AIT_SEISJ": "株式会社　高崎屋商店"
+      },
+      {
+        "AIT_AITCD": "5064",
+        "AIT_MEISJ": "まつばら",
+        "AIT_SEISJ": "株式会社まつばら"
+      },
+      {
+        "AIT_AITCD": "5065",
+        "AIT_MEISJ": "常陽食品工業株式会社",
+        "AIT_SEISJ": "常陽食品工業株式会社"
+      },
+      {
+        "AIT_AITCD": "5066",
+        "AIT_MEISJ": "北晃物産",
+        "AIT_SEISJ": "北晃物産　株式会社"
+      },
+      {
+        "AIT_AITCD": "5067",
+        "AIT_MEISJ": "有限会社　大幸",
+        "AIT_SEISJ": "有限会社　大幸"
+      },
+      {
+        "AIT_AITCD": "5068",
+        "AIT_MEISJ": "有限会社　若松屋",
+        "AIT_SEISJ": "有限会社　若松屋"
+      },
+      {
+        "AIT_AITCD": "5069",
+        "AIT_MEISJ": "上長",
+        "AIT_SEISJ": "上長"
+      },
+      {
+        "AIT_AITCD": "5070",
+        "AIT_MEISJ": "かね哲",
+        "AIT_SEISJ": "かね哲"
+      },
+      {
+        "AIT_AITCD": "5071",
+        "AIT_MEISJ": "堺周",
+        "AIT_SEISJ": "堺周"
+      },
+      {
+        "AIT_AITCD": "5072",
+        "AIT_MEISJ": "（有）澤田屋",
+        "AIT_SEISJ": "有限会社澤田屋"
+      },
+      {
+        "AIT_AITCD": "5073",
+        "AIT_MEISJ": "佐和久",
+        "AIT_SEISJ": "佐和久"
+      },
+      {
+        "AIT_AITCD": "5074",
+        "AIT_MEISJ": "海老晃",
+        "AIT_SEISJ": "海老晃"
+      },
+      {
+        "AIT_AITCD": "5075",
+        "AIT_MEISJ": "高桑",
+        "AIT_SEISJ": "高桑"
+      },
+      {
+        "AIT_AITCD": "5076",
+        "AIT_MEISJ": "東一",
+        "AIT_SEISJ": "東一"
+      },
+      {
+        "AIT_AITCD": "5077",
+        "AIT_MEISJ": "山利",
+        "AIT_SEISJ": "山利"
+      },
+      {
+        "AIT_AITCD": "5078",
+        "AIT_MEISJ": "小林",
+        "AIT_SEISJ": "小林"
+      },
+      {
+        "AIT_AITCD": "5079",
+        "AIT_MEISJ": "原口",
+        "AIT_SEISJ": "原口"
+      },
+      {
+        "AIT_AITCD": "5080",
+        "AIT_MEISJ": "かね七",
+        "AIT_SEISJ": "かね七"
+      },
+      {
+        "AIT_AITCD": "5081",
+        "AIT_MEISJ": "佐和北",
+        "AIT_SEISJ": "佐和北"
+      },
+      {
+        "AIT_AITCD": "5082",
+        "AIT_MEISJ": "㈱　みき水産",
+        "AIT_SEISJ": "㈱　みき水産"
+      },
+      {
+        "AIT_AITCD": "5083",
+        "AIT_MEISJ": "東海魚類",
+        "AIT_SEISJ": "東海魚類"
+      },
+      {
+        "AIT_AITCD": "5084",
+        "AIT_MEISJ": "一徳",
+        "AIT_SEISJ": "一徳"
+      },
+      {
+        "AIT_AITCD": "5085",
+        "AIT_MEISJ": "㈱　Ｉ＆Ｎ　（食品卸売業）",
+        "AIT_SEISJ": "㈱　Ｉ＆Ｎ　（食品卸売業）"
+      },
+      {
+        "AIT_AITCD": "5086",
+        "AIT_MEISJ": "＊＊＊(有)平正商店＊＊＊",
+        "AIT_SEISJ": "有限会社平正商店"
+      },
+      {
+        "AIT_AITCD": "5087",
+        "AIT_MEISJ": "＊＊＊(有)平正商店（アジア八百正）＊＊＊",
+        "AIT_SEISJ": "有限会社平正商店（アジア八百正）"
+      },
+      {
+        "AIT_AITCD": "5088",
+        "AIT_MEISJ": "柏原",
+        "AIT_SEISJ": "柏原"
+      },
+      {
+        "AIT_AITCD": "5089",
+        "AIT_MEISJ": "マルイフーズ",
+        "AIT_SEISJ": "マルイフーズ"
+      },
+      {
+        "AIT_AITCD": "5090",
+        "AIT_MEISJ": "ゆたか　鮨",
+        "AIT_SEISJ": "ゆたか　鮨"
+      },
+      {
+        "AIT_AITCD": "5091",
+        "AIT_MEISJ": "三平鮨",
+        "AIT_SEISJ": "三平鮨"
+      },
+      {
+        "AIT_AITCD": "5092",
+        "AIT_MEISJ": "寿司　平",
+        "AIT_SEISJ": "寿司平"
+      },
+      {
+        "AIT_AITCD": "5093",
+        "AIT_MEISJ": "舞　寿司",
+        "AIT_SEISJ": "舞　寿司"
+      },
+      {
+        "AIT_AITCD": "5094",
+        "AIT_MEISJ": "利　久",
+        "AIT_SEISJ": "利久"
+      },
+      {
+        "AIT_AITCD": "5095",
+        "AIT_MEISJ": "寿しのビッグアイ",
+        "AIT_SEISJ": "寿しのビッグアイ"
+      },
+      {
+        "AIT_AITCD": "5096",
+        "AIT_MEISJ": "すし　仙",
+        "AIT_SEISJ": "すし仙"
+      },
+      {
+        "AIT_AITCD": "5097",
+        "AIT_MEISJ": "山　桜",
+        "AIT_SEISJ": "山桜"
+      },
+      {
+        "AIT_AITCD": "5098",
+        "AIT_MEISJ": "びっくり亭",
+        "AIT_SEISJ": "びっくり亭"
+      },
+      {
+        "AIT_AITCD": "5099",
+        "AIT_MEISJ": "ひでちゃん",
+        "AIT_SEISJ": "ひでちゃん"
+      },
+      {
+        "AIT_AITCD": "5100",
+        "AIT_MEISJ": "きさらぎ",
+        "AIT_SEISJ": "きさらぎ"
+      },
+      {
+        "AIT_AITCD": "5101",
+        "AIT_MEISJ": "ゆたか",
+        "AIT_SEISJ": "ゆたか"
+      },
+      {
+        "AIT_AITCD": "5102",
+        "AIT_MEISJ": "イートスポット",
+        "AIT_SEISJ": "イートスポット"
+      },
+      {
+        "AIT_AITCD": "5103",
+        "AIT_MEISJ": "都市建設　株式会社",
+        "AIT_SEISJ": "都市建設株式会社"
+      },
+      {
+        "AIT_AITCD": "5104",
+        "AIT_MEISJ": "ブーゲンビリア",
+        "AIT_SEISJ": "ブーゲンビリア"
+      },
+      {
+        "AIT_AITCD": "5105",
+        "AIT_MEISJ": "㈱ドン・キホーテ港山下総本店",
+        "AIT_SEISJ": "株式会社ドン・キホーテ"
+      },
+      {
+        "AIT_AITCD": "5106",
+        "AIT_MEISJ": "㈱ドン・キホーテ東名川崎店",
+        "AIT_SEISJ": "株式会社ドン・キホーテ"
+      },
+      {
+        "AIT_AITCD": "5107",
+        "AIT_MEISJ": "㈱ドン・キホーテ立川店",
+        "AIT_SEISJ": "株式会社ドン・キホーテ"
+      },
+      {
+        "AIT_AITCD": "5108",
+        "AIT_MEISJ": "㈱ドン・キホーテラパーク成東店",
+        "AIT_SEISJ": "株式会社長崎屋"
+      },
+      {
+        "AIT_AITCD": "5109",
+        "AIT_MEISJ": "㈱ドン・キホーテ四街道店",
+        "AIT_SEISJ": "株式会社長崎屋"
+      },
+      {
+        "AIT_AITCD": "5110",
+        "AIT_MEISJ": "㈱ドン・キホーテ三郷店",
+        "AIT_SEISJ": "株式会社長崎屋"
+      },
+      {
+        "AIT_AITCD": "5111",
+        "AIT_MEISJ": "㈱ドン・キホーテ浦和原山店",
+        "AIT_SEISJ": "株式会社長崎屋"
+      },
+      {
+        "AIT_AITCD": "5112",
+        "AIT_MEISJ": "㈱ドン・キホーテ二俣川店",
+        "AIT_SEISJ": "株式会社長崎屋"
+      },
+      {
+        "AIT_AITCD": "5113",
+        "AIT_MEISJ": "㈱ドン・キホーテ綾瀬店",
+        "AIT_SEISJ": "株式会社長崎屋"
+      },
+      {
+        "AIT_AITCD": "5114",
+        "AIT_MEISJ": "㈱ドン・キホーテ上水戸店",
+        "AIT_SEISJ": "株式会社長崎屋"
+      },
+      {
+        "AIT_AITCD": "5115",
+        "AIT_MEISJ": "㈱ドン・キホーテ勝田店",
+        "AIT_SEISJ": "株式会社長崎屋"
+      },
+      {
+        "AIT_AITCD": "5116",
+        "AIT_MEISJ": "㈱ドン・キホーテ八千代１６号バイパス店",
+        "AIT_SEISJ": "株式会社長崎屋"
+      },
+      {
+        "AIT_AITCD": "5117",
+        "AIT_MEISJ": "㈱ドン・キホーテ蓮田店",
+        "AIT_SEISJ": "株式会社長崎屋"
+      },
+      {
+        "AIT_AITCD": "5118",
+        "AIT_MEISJ": "㈱ドン・キホーテ北鴻巣店",
+        "AIT_SEISJ": "株式会社長崎屋"
+      },
+      {
+        "AIT_AITCD": "5119",
+        "AIT_MEISJ": "㈱ドン・キホーテＵＮＹ大口店",
+        "AIT_SEISJ": "株式会社ドン・キホーテ"
+      },
+      {
+        "AIT_AITCD": "5120",
+        "AIT_MEISJ": "㈱ドン・キホーテＵＮＹ座間店",
+        "AIT_SEISJ": "株式会社ドン・キホーテ"
+      },
+      {
+        "AIT_AITCD": "5121",
+        "AIT_MEISJ": "㈱ドン・キホーテUNY佐原東店",
+        "AIT_SEISJ": "株式会社ドン・キホーテ"
+      },
+      {
+        "AIT_AITCD": "5122",
+        "AIT_MEISJ": "㈱ドン・キホーテＵＮＹ市原店",
+        "AIT_SEISJ": "株式会社ドン・キホーテ"
+      },
+      {
+        "AIT_AITCD": "5201",
+        "AIT_MEISJ": "㈱ショクリュー浦安営業所",
+        "AIT_SEISJ": "㈱ショクリュー浦安営業所"
+      },
+      {
+        "AIT_AITCD": "5202",
+        "AIT_MEISJ": "㈱ショクリュー横浜営業所",
+        "AIT_SEISJ": "㈱ショクリュー横浜営業所"
+      },
+      {
+        "AIT_AITCD": "5203",
+        "AIT_MEISJ": "㈱ショクリュー三多摩営業所",
+        "AIT_SEISJ": "㈱ショクリュー三多摩営業所"
+      },
+      {
+        "AIT_AITCD": "5204",
+        "AIT_MEISJ": "㈱ショクリュー　営業Ｂ",
+        "AIT_SEISJ": "㈱ショクリュー　営業Ｂ"
+      },
+      {
+        "AIT_AITCD": "5205",
+        "AIT_MEISJ": "柏魚市場  株式会社",
+        "AIT_SEISJ": "柏魚市場  株式会社"
+      },
+      {
+        "AIT_AITCD": "5206",
+        "AIT_MEISJ": "盛岡水産  株式会社",
+        "AIT_SEISJ": "盛岡水産  株式会社"
+      },
+      {
+        "AIT_AITCD": "5207",
+        "AIT_MEISJ": "有限会社　ヒロヨシ",
+        "AIT_SEISJ": "有限会社　ヒロヨシ"
+      },
+      {
+        "AIT_AITCD": "5208",
+        "AIT_MEISJ": "株式会社  海老一",
+        "AIT_SEISJ": "株式会社  海老一"
+      },
+      {
+        "AIT_AITCD": "5209",
+        "AIT_MEISJ": "有限会社  高    進",
+        "AIT_SEISJ": "有限会社  高    進"
+      },
+      {
+        "AIT_AITCD": "5210",
+        "AIT_MEISJ": "株式会社  芝福",
+        "AIT_SEISJ": "株式会社  芝福"
+      },
+      {
+        "AIT_AITCD": "5211",
+        "AIT_MEISJ": "千葉商店",
+        "AIT_SEISJ": "千葉商店"
+      },
+      {
+        "AIT_AITCD": "5212",
+        "AIT_MEISJ": "㈲海老敏",
+        "AIT_SEISJ": "有限会社海老敏"
+      },
+      {
+        "AIT_AITCD": "5213",
+        "AIT_MEISJ": "㈱プレコエフユニット",
+        "AIT_SEISJ": "株式会社プレコエフユニット"
+      },
+      {
+        "AIT_AITCD": "5214",
+        "AIT_MEISJ": "小林水産",
+        "AIT_SEISJ": "小林水産"
+      },
+      {
+        "AIT_AITCD": "5215",
+        "AIT_MEISJ": "海  老  仁",
+        "AIT_SEISJ": "海  老  仁"
+      },
+      {
+        "AIT_AITCD": "5216",
+        "AIT_MEISJ": "㈲藤井商店",
+        "AIT_SEISJ": "有限会社藤井商店"
+      },
+      {
+        "AIT_AITCD": "5217",
+        "AIT_MEISJ": "海老仁支店",
+        "AIT_SEISJ": "海老仁支店"
+      },
+      {
+        "AIT_AITCD": "5218",
+        "AIT_MEISJ": "海老定",
+        "AIT_SEISJ": "海老定"
+      },
+      {
+        "AIT_AITCD": "5219",
+        "AIT_MEISJ": "中村商店",
+        "AIT_SEISJ": "中村商店"
+      },
+      {
+        "AIT_AITCD": "5220",
+        "AIT_MEISJ": "㈲松戸海老敏",
+        "AIT_SEISJ": "有限会社松戸海老敏"
+      },
+      {
+        "AIT_AITCD": "5221",
+        "AIT_MEISJ": "株式会社  サクラ食品工業",
+        "AIT_SEISJ": "株式会社  サクラ食品工業"
+      },
+      {
+        "AIT_AITCD": "5222",
+        "AIT_MEISJ": "株式会社  光洋",
+        "AIT_SEISJ": "株式会社  光洋"
+      },
+      {
+        "AIT_AITCD": "5223",
+        "AIT_MEISJ": "㈱マルイチ産商  東京支社",
+        "AIT_SEISJ": "株式会社マルイチ産商  東京支社"
+      },
+      {
+        "AIT_AITCD": "5224",
+        "AIT_MEISJ": "＊＊＊リソー食品工業株式会社＊＊＊",
+        "AIT_SEISJ": "＊＊＊リソー食品工業株式会社＊＊＊"
+      },
+      {
+        "AIT_AITCD": "5225",
+        "AIT_MEISJ": "ふ  な  与",
+        "AIT_SEISJ": "ふ  な  与"
+      },
+      {
+        "AIT_AITCD": "5226",
+        "AIT_MEISJ": "芙蓉食品",
+        "AIT_SEISJ": "芙蓉食品"
+      },
+      {
+        "AIT_AITCD": "5227",
+        "AIT_MEISJ": "有限会社  旭洋フーズ",
+        "AIT_SEISJ": "有限会社  旭洋フーズ"
+      },
+      {
+        "AIT_AITCD": "5228",
+        "AIT_MEISJ": "山本水産",
+        "AIT_SEISJ": "株式会社  山本水産"
+      },
+      {
+        "AIT_AITCD": "5229",
+        "AIT_MEISJ": "三和食品  ㈱",
+        "AIT_SEISJ": "三和食品  株式会社"
+      },
+      {
+        "AIT_AITCD": "5230",
+        "AIT_MEISJ": "有限会社  ヤマヨ",
+        "AIT_SEISJ": "有限会社  ヤマヨ"
+      },
+      {
+        "AIT_AITCD": "5231",
+        "AIT_MEISJ": "㈱ショクリュー商品３部　広域販売課",
+        "AIT_SEISJ": "㈱ショクリュー商品３部　広域販売課"
+      },
+      {
+        "AIT_AITCD": "5232",
+        "AIT_MEISJ": "株式会社　犬飼フーズ",
+        "AIT_SEISJ": "株式会社犬飼フーズ"
+      },
+      {
+        "AIT_AITCD": "5233",
+        "AIT_MEISJ": "ホクエイ食品  株式会社",
+        "AIT_SEISJ": "ホクエイ食品  株式会社"
+      },
+      {
+        "AIT_AITCD": "5234",
+        "AIT_MEISJ": "（有）三雄水産",
+        "AIT_SEISJ": "有限会社三雄水産"
+      },
+      {
+        "AIT_AITCD": "5235",
+        "AIT_MEISJ": "（株）カネトモ　東京",
+        "AIT_SEISJ": "株式会社カネトモ"
+      },
+      {
+        "AIT_AITCD": "5236",
+        "AIT_MEISJ": "（有）ＫＭＳカンパニー",
+        "AIT_SEISJ": "有限会社ＫＭＳカンパニー"
+      },
+      {
+        "AIT_AITCD": "5237",
+        "AIT_MEISJ": "㈱ショクリュー営業部Ｃ　鮮魚",
+        "AIT_SEISJ": "㈱ショクリュー営業部Ｃ　鮮魚"
+      },
+      {
+        "AIT_AITCD": "5238",
+        "AIT_MEISJ": "有限会社  ヤマヨ　鮮魚",
+        "AIT_SEISJ": "有限会社  ヤマヨ"
+      },
+      {
+        "AIT_AITCD": "5239",
+        "AIT_MEISJ": "（株）ショクリュー　海外開発部　鮮魚",
+        "AIT_SEISJ": "株式会社ショクリュー　海外開発部　鮮魚"
+      },
+      {
+        "AIT_AITCD": "5240",
+        "AIT_MEISJ": "太陽水産",
+        "AIT_SEISJ": "太陽水産"
+      },
+      {
+        "AIT_AITCD": "5241",
+        "AIT_MEISJ": "㈱ショクリュー　営業Ｂ　鮮魚",
+        "AIT_SEISJ": "㈱ショクリュー営業Ｂ　鮮魚"
+      },
+      {
+        "AIT_AITCD": "5242",
+        "AIT_MEISJ": "土浦魚市場（株）",
+        "AIT_SEISJ": "土浦魚市場株式会社"
+      },
+      {
+        "AIT_AITCD": "5243",
+        "AIT_MEISJ": "㈱ハンスイ",
+        "AIT_SEISJ": "株式会社ハンスイ"
+      },
+      {
+        "AIT_AITCD": "5244",
+        "AIT_MEISJ": "㈱ショクリュー量販部コープ",
+        "AIT_SEISJ": "㈱ショクリュー量販部コープ"
+      },
+      {
+        "AIT_AITCD": "5245",
+        "AIT_MEISJ": "㈱群馬丸魚　東京支社",
+        "AIT_SEISJ": "株式会社群馬丸魚"
+      },
+      {
+        "AIT_AITCD": "5246",
+        "AIT_MEISJ": "㈱アキラ水産",
+        "AIT_SEISJ": "株式会社アキラ水産"
+      },
+      {
+        "AIT_AITCD": "5247",
+        "AIT_MEISJ": "㈱マルウ右近",
+        "AIT_SEISJ": "株式会社マルウ右近"
+      },
+      {
+        "AIT_AITCD": "5248",
+        "AIT_MEISJ": "㈱コウトク水産",
+        "AIT_SEISJ": "株式会社コウトク水産"
+      },
+      {
+        "AIT_AITCD": "5249",
+        "AIT_MEISJ": "㈲丸哲",
+        "AIT_SEISJ": "有限会社丸哲"
+      },
+      {
+        "AIT_AITCD": "5250",
+        "AIT_MEISJ": "㈱ショクリュー　西日本支社量販部水産2課",
+        "AIT_SEISJ": "株式会社ショクリュー"
+      },
+      {
+        "AIT_AITCD": "5251",
+        "AIT_MEISJ": "ショクリュー海外開発部",
+        "AIT_SEISJ": "株式会社ショクリュー"
+      },
+      {
+        "AIT_AITCD": "5252",
+        "AIT_MEISJ": "㈲中常",
+        "AIT_SEISJ": "有限会社中常"
+      },
+      {
+        "AIT_AITCD": "5253",
+        "AIT_MEISJ": "㈱せんざん　本部",
+        "AIT_SEISJ": "株式会社せんざん"
+      },
+      {
+        "AIT_AITCD": "5254",
+        "AIT_MEISJ": "大都魚類㈱  千住支社",
+        "AIT_SEISJ": "大都魚類　株式会社"
+      },
+      {
+        "AIT_AITCD": "5255",
+        "AIT_MEISJ": "ショクリュー中部支社商品部",
+        "AIT_SEISJ": "株式会社ショクリュー"
+      },
+      {
+        "AIT_AITCD": "5256",
+        "AIT_MEISJ": "せんざん　港南台本店",
+        "AIT_SEISJ": "株式会社せんざん"
+      },
+      {
+        "AIT_AITCD": "5257",
+        "AIT_MEISJ": "せんざん　港北ニュータウン店",
+        "AIT_SEISJ": "株式会社せんざん"
+      },
+      {
+        "AIT_AITCD": "5258",
+        "AIT_MEISJ": "せんざん　山手台店",
+        "AIT_SEISJ": "株式会社せんざん"
+      },
+      {
+        "AIT_AITCD": "5259",
+        "AIT_MEISJ": "せんざん　相模原店",
+        "AIT_SEISJ": "株式会社せんざん"
+      },
+      {
+        "AIT_AITCD": "5260",
+        "AIT_MEISJ": "せんざん　青葉台店",
+        "AIT_SEISJ": "株式会社せんざん"
+      },
+      {
+        "AIT_AITCD": "5261",
+        "AIT_MEISJ": "せんざん　本牧店",
+        "AIT_SEISJ": "株式会社せんざん"
+      },
+      {
+        "AIT_AITCD": "5262",
+        "AIT_MEISJ": "せんざん　大船店",
+        "AIT_SEISJ": "株式会社せんざん"
+      },
+      {
+        "AIT_AITCD": "5263",
+        "AIT_MEISJ": "せんざん　横浜三井ビル店",
+        "AIT_SEISJ": "株式会社せんざん"
+      },
+      {
+        "AIT_AITCD": "5264",
+        "AIT_MEISJ": "海鮮市場　瀬谷店",
+        "AIT_SEISJ": "株式会社せんざん"
+      },
+      {
+        "AIT_AITCD": "5265",
+        "AIT_MEISJ": "海鮮市場　成瀬店",
+        "AIT_SEISJ": "株式会社せんざん"
+      },
+      {
+        "AIT_AITCD": "5266",
+        "AIT_MEISJ": "海風季　関内店",
+        "AIT_SEISJ": "株式会社せんざん"
+      },
+      {
+        "AIT_AITCD": "5267",
+        "AIT_MEISJ": "海風季　Colette.Mareみなとみらい店",
+        "AIT_SEISJ": "株式会社せんざん"
+      },
+      {
+        "AIT_AITCD": "5268",
+        "AIT_MEISJ": "佐島　関内馬車道店",
+        "AIT_SEISJ": "株式会社せんざん"
+      },
+      {
+        "AIT_AITCD": "5269",
+        "AIT_MEISJ": "せんざん　新横浜店",
+        "AIT_SEISJ": "株式会社せんざん"
+      },
+      {
+        "AIT_AITCD": "5270",
+        "AIT_MEISJ": "帝エンタープライズジャパン",
+        "AIT_SEISJ": "帝エンタープライズジャパン株式会社"
+      },
+      {
+        "AIT_AITCD": "5271",
+        "AIT_MEISJ": "㈱マルイチ産商　水産事業部宇都宮営業所",
+        "AIT_SEISJ": "株式会社マルイチ産商"
+      },
+      {
+        "AIT_AITCD": "5272",
+        "AIT_MEISJ": "㈱平庄",
+        "AIT_SEISJ": "株式会社平庄"
+      },
+      {
+        "AIT_AITCD": "5273",
+        "AIT_MEISJ": "ショクリュー東日本支社冷凍２課",
+        "AIT_SEISJ": "株式会社ショクリュー"
+      },
+      {
+        "AIT_AITCD": "5274",
+        "AIT_MEISJ": "㈱ショクリュー　中部支社冷凍課",
+        "AIT_SEISJ": "株式会社ショクリュー"
+      },
+      {
+        "AIT_AITCD": "5275",
+        "AIT_MEISJ": "長治観光(株)",
+        "AIT_SEISJ": "長治観光株式会社"
+      },
+      {
+        "AIT_AITCD": "5276",
+        "AIT_MEISJ": "Ｊフロントホールディングス㈱　Ｂｉｔ銀座",
+        "AIT_SEISJ": "Ｊフロントホールディングス株式会社"
+      },
+      {
+        "AIT_AITCD": "5277",
+        "AIT_MEISJ": "㈱いかの墨",
+        "AIT_SEISJ": "株式会社いかの墨"
+      },
+      {
+        "AIT_AITCD": "5278",
+        "AIT_MEISJ": "ＳＵＩＳＵＩ",
+        "AIT_SEISJ": "ＳＵＩＳＵＩ"
+      },
+      {
+        "AIT_AITCD": "5279",
+        "AIT_MEISJ": "北品川",
+        "AIT_SEISJ": "北品川株式会社"
+      },
+      {
+        "AIT_AITCD": "5280",
+        "AIT_MEISJ": "㈱いかの墨　新宿駅南口ﾏｲﾝｽﾞﾀﾜｰ店",
+        "AIT_SEISJ": "株式会社いかの墨"
+      },
+      {
+        "AIT_AITCD": "5281",
+        "AIT_MEISJ": "ヤマヨ大宮",
+        "AIT_SEISJ": "株式会社ヤマヨ大宮"
+      },
+      {
+        "AIT_AITCD": "5282",
+        "AIT_MEISJ": "㈲ティ・エヌ・エス・カンパニー",
+        "AIT_SEISJ": "有限会社ティ・エヌ・エス・カンパニー"
+      },
+      {
+        "AIT_AITCD": "5283",
+        "AIT_MEISJ": "加藤商店",
+        "AIT_SEISJ": "加藤商店"
+      },
+      {
+        "AIT_AITCD": "5284",
+        "AIT_MEISJ": "株式会社  セブンミリオン食品",
+        "AIT_SEISJ": "株式会社  セブンミリオン食品"
+      },
+      {
+        "AIT_AITCD": "5285",
+        "AIT_MEISJ": "興伸食品㈱",
+        "AIT_SEISJ": "興伸食品  株式会社"
+      },
+      {
+        "AIT_AITCD": "5286",
+        "AIT_MEISJ": "浦正",
+        "AIT_SEISJ": "浦正"
+      },
+      {
+        "AIT_AITCD": "5287",
+        "AIT_MEISJ": "株式会社  光泉",
+        "AIT_SEISJ": "株式会社  光泉"
+      },
+      {
+        "AIT_AITCD": "5288",
+        "AIT_MEISJ": "㈱つきぢ  味幸堂",
+        "AIT_SEISJ": "株式会社  つきぢ味幸堂"
+      },
+      {
+        "AIT_AITCD": "5289",
+        "AIT_MEISJ": "㈱浜乃院",
+        "AIT_SEISJ": "株式会社  浜乃院"
+      },
+      {
+        "AIT_AITCD": "5290",
+        "AIT_MEISJ": "堂故商店",
+        "AIT_SEISJ": "㈱  堂故商店"
+      },
+      {
+        "AIT_AITCD": "5291",
+        "AIT_MEISJ": "せんざん　加工場1",
+        "AIT_SEISJ": "株式会社せんざん"
+      },
+      {
+        "AIT_AITCD": "5292",
+        "AIT_MEISJ": "㈱いかの墨　大宮店",
+        "AIT_SEISJ": "株式会社いかの墨"
+      },
+      {
+        "AIT_AITCD": "5293",
+        "AIT_MEISJ": "㈱高進",
+        "AIT_SEISJ": "株式会社高進"
+      },
+      {
+        "AIT_AITCD": "7050",
+        "AIT_MEISJ": "諸口",
+        "AIT_SEISJ": "諸口"
+      },
+      {
+        "AIT_AITCD": "7051",
+        "AIT_MEISJ": "有馬",
+        "AIT_SEISJ": "有馬"
+      },
+      {
+        "AIT_AITCD": "7052",
+        "AIT_MEISJ": "渡辺水産",
+        "AIT_SEISJ": "渡辺水産"
+      },
+      {
+        "AIT_AITCD": "7053",
+        "AIT_MEISJ": "望月水産",
+        "AIT_SEISJ": "望月水産"
+      },
+      {
+        "AIT_AITCD": "7055",
+        "AIT_MEISJ": "魚豊",
+        "AIT_SEISJ": "魚豊"
+      },
+      {
+        "AIT_AITCD": "7056",
+        "AIT_MEISJ": "日本盛",
+        "AIT_SEISJ": "日本盛"
+      },
+      {
+        "AIT_AITCD": "7057",
+        "AIT_MEISJ": "大豊",
+        "AIT_SEISJ": "大豊"
+      },
+      {
+        "AIT_AITCD": "7058",
+        "AIT_MEISJ": "大田堺周",
+        "AIT_SEISJ": "大田堺周"
+      },
+      {
+        "AIT_AITCD": "7059",
+        "AIT_MEISJ": "ル・ピアノ",
+        "AIT_SEISJ": "ル・ピアノ"
+      },
+      {
+        "AIT_AITCD": "7060",
+        "AIT_MEISJ": "林",
+        "AIT_SEISJ": "林"
+      },
+      {
+        "AIT_AITCD": "7061",
+        "AIT_MEISJ": "宇野",
+        "AIT_SEISJ": "宇野"
+      },
+      {
+        "AIT_AITCD": "7062",
+        "AIT_MEISJ": "香村",
+        "AIT_SEISJ": "香村"
+      },
+      {
+        "AIT_AITCD": "7063",
+        "AIT_MEISJ": "＊＊すし春＊＊",
+        "AIT_SEISJ": "＊＊すし春＊＊"
+      },
+      {
+        "AIT_AITCD": "7064",
+        "AIT_MEISJ": "丸川",
+        "AIT_SEISJ": "丸川"
+      },
+      {
+        "AIT_AITCD": "7065",
+        "AIT_MEISJ": "田後",
+        "AIT_SEISJ": "田後"
+      },
+      {
+        "AIT_AITCD": "7066",
+        "AIT_MEISJ": "野中",
+        "AIT_SEISJ": "野中"
+      },
+      {
+        "AIT_AITCD": "7067",
+        "AIT_MEISJ": "チャオチェンマイ",
+        "AIT_SEISJ": "チャオチェンマイ"
+      },
+      {
+        "AIT_AITCD": "7068",
+        "AIT_MEISJ": "（株）海星ムサシ",
+        "AIT_SEISJ": "株式会社海星ムサシ"
+      },
+      {
+        "AIT_AITCD": "7510",
+        "AIT_MEISJ": "現金売上",
+        "AIT_SEISJ": "現金売上"
+      },
+      {
+        "AIT_AITCD": "7900",
+        "AIT_MEISJ": "＊＊大  京  築地＊＊",
+        "AIT_SEISJ": "＊＊㈱  大  京  築地＊＊"
+      },
+      {
+        "AIT_AITCD": "7998",
+        "AIT_MEISJ": "大京　築地",
+        "AIT_SEISJ": "株式会社大京　築地"
+      },
+      {
+        "AIT_AITCD": "7999",
+        "AIT_MEISJ": "＊＊＊総務課＊＊＊",
+        "AIT_SEISJ": "＊＊＊株式会社  大京＊＊＊"
+      }
+    ]
+  }
+}
