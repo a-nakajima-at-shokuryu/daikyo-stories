@@ -5,9 +5,30 @@ import {
 import DatePicker from './components/DatePicker'; 
 import UrisakiAutocompleteByGql from './components/UrisakiAutocompleteByGql'; 
 import GzaAutocompleteByGql from './components/GzaAutocompleteByGql'; 
-
+import { appValidationSchema } from './validations/appValidateions';
+import { Formik, Form, Field } from 'formik';
 
 const App = () => {
+  return (
+    <Formik 
+      initialValues={{
+        nohinb: new Date(), 
+        urisaki: {}, 
+        zaiko: {}, 
+      }}
+      validationSchema={appValidationSchema}
+    >
+      {(props) => (
+        <AppForm {...props} />
+      )}
+    </Formik>
+  );
+};
+const AppForm = ({
+  values, 
+  errors, 
+  touched, 
+}) => {
   // ステートフック
   const [nohinbi, setNohinbi] = useState(new Date())
   const [urisaki, setUrisaki] = useState({});
@@ -25,8 +46,8 @@ const App = () => {
   return (
     <div>
       <CssBaseline />
-
       <Container maxWidth="md">
+        <pre>{JSON.stringify({ values, errors, touched, }, null, 2)}</pre>
         <Grid container spacing={2}>
           <Grid item xs={12}>
             <Paper style={{ padding: theme.spacing(3) }}>
