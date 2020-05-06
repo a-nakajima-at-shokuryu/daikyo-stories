@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import {
-  CssBaseline
+  CssBaseline, Grid, Paper, useTheme, Container
 } from '@material-ui/core'; 
 import DatePicker from './components/DatePicker'; 
 import UrisakiAutocompleteByGql from './components/UrisakiAutocompleteByGql'; 
@@ -10,6 +10,8 @@ import GzaAutocompleteByGql from './components/GzaAutocompleteByGql';
 const App = () => {
   // ステートフック
   const [nohinbi, setNohinbi] = useState(new Date())
+  const [urisaki, setUrisaki] = useState({});
+  const [zaiko, setZaiko] = useState({});
 
   // 納品日変更時
   const doNohinbiChange = date => {
@@ -19,15 +21,32 @@ const App = () => {
       }
     }
   }
+  const theme = useTheme();
   return (
     <div>
       <CssBaseline />
 
-      <DatePicker nohinbi={nohinbi} doNohinbiChange={doNohinbiChange} />
+      <Container maxWidth="md">
+        <Grid container spacing={2}>
+          <Grid item xs={12}>
+            <Paper style={{ padding: theme.spacing(3) }}>
 
-      <UrisakiAutocompleteByGql />
+              <DatePicker nohinbi={nohinbi} doNohinbiChange={doNohinbiChange} />
 
-      <GzaAutocompleteByGql/>
+              <UrisakiAutocompleteByGql 
+                value={urisaki}
+                onChange={setUrisaki}
+              />
+
+              <GzaAutocompleteByGql
+                value={zaiko}
+                onChange={setZaiko}
+              />
+            </Paper>
+          </Grid>
+        </Grid>
+      </Container>
+
     </div>
   );
 }
