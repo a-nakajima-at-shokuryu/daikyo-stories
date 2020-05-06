@@ -5,6 +5,8 @@ import { makeStyles, TextField } from '@material-ui/core';
 
 const GzaAutocomplete = ({
   gza, 
+  value, 
+  onChange, 
 }) => {
   const classes = useStyles();
   const {
@@ -14,18 +16,25 @@ const GzaAutocomplete = ({
     getOptionProps, 
   } = useAutocomplete({
     options: gza,
-    getOptionLabel: (option) => [
-      option.hinnm, 
-      option.sizen, 
-      `${option.yoryo}${option.jurkb}`, 
-      `(${option.hincd})`, 
-      [
-        option.tainm, 
-        option.ikunm, 
-        option.gennm, 
-        option.kaknm, 
-      ].join('-')
-    ].join(' '), 
+    value: value, 
+    onChange: (e, v) => onChange(v), 
+    getOptionLabel: (option) => {
+      if (option.hinnm === undefined) {
+        return '';
+      }
+      return [
+        option.hinnm, 
+        option.sizen, 
+        `${option.yoryo}${option.jurkb}`, 
+        `(${option.hincd})`, 
+        [
+          option.tainm, 
+          option.ikunm, 
+          option.gennm, 
+          option.kaknm, 
+        ].join('-')
+      ].join(' ');
+    }, 
   });
 
   const gzaOptions = groupedOptions.map((option, index) => {

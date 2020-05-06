@@ -14,11 +14,14 @@ const useGza = () => {
 };
 
 export const Autocomplete = () => {
+  const [value, setValue] = useState({});
   const { data } = useGza();
 
   return (
     <GzaAutocomplete 
       gza={data}
+      value={value}
+      onChange={setValue}
     />
   );
 };

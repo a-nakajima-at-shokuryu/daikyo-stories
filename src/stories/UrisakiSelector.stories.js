@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useState } from 'react';
 import UrisakiAutocomplete from '../components/UrisakiAutocomplete'; 
 
 export default {
@@ -6,6 +6,7 @@ export default {
 };
 
 export const Autocomplete = () => {
+  const [value, onChange] = useState({});
   const { data } = require('../data/urisaki2.json');
 
   // 得意先データのソート（AIT_AITCDの昇順）
@@ -17,6 +18,10 @@ export const Autocomplete = () => {
   })
 
   return (
-    <UrisakiAutocomplete arrayUrisaki2={arrayUrisaki2} />
+    <UrisakiAutocomplete 
+      arrayUrisaki2={arrayUrisaki2} 
+      value={value}
+      onChange={onChange}
+    />
   );
 };
