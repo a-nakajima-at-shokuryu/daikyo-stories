@@ -31,7 +31,10 @@ const App = () => {
           <Grid item xs={12}>
             <Paper style={{ padding: theme.spacing(3) }}>
 
-              <DatePicker nohinbi={nohinbi} doNohinbiChange={doNohinbiChange} />
+              <DatePicker 
+                nohinbi={nohinbi} 
+                doNohinbiChange={doNohinbiChange} 
+              />
 
               <UrisakiAutocompleteByGql 
                 value={urisaki}

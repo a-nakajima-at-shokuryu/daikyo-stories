@@ -54,7 +54,9 @@ const GzaAutocompleteByGql = ({
         <div>在庫一覧を取得しています・・・</div>
       ) : (
         <GzaAutocomplete
-          gza={gza}
+					gza={gza}
+					value={value}
+					onChange={onChange}
         />
       )}
     </div>

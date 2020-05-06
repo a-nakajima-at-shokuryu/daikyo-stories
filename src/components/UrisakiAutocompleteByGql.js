@@ -30,7 +30,11 @@ const UrisakiAutocompleteByGql = ({
       {loading ? (
         <div>売り先一覧を取得しています・・・</div>
       ) : (
-        <UrisakiAutocomplete arrayUrisaki2={arrayUrisaki2} />
+        <UrisakiAutocomplete 
+          arrayUrisaki2={arrayUrisaki2} 
+          value={value}
+          onChange={onChange}
+        />
       )}
     </div>
   )
